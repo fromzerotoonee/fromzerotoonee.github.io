@@ -11,8 +11,8 @@
     <description>Recent content in Galleries on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>admin@fromzerotoone.in (fromzerotoone)</managingEditor>
-    <webMaster>admin@fromzerotoone.in (fromzerotoone)</webMaster>
+    <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
+    <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>Cartoon</title>
         <link>http://example.org/en/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>admin@fromzerotoone.in (fromzerotoone)</author>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>http://example.org/en/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>fromzerotoone</dc:creator>
+        <dc:creator>FromZeroToOne</dc:creator>
         <media:content url="http://example.orgimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -42,12 +42,12 @@
         <title>Photo</title>
         <link>http://example.org/en/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>admin@fromzerotoone.in (fromzerotoone)</author>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>http://example.org/en/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>fromzerotoone</dc:creator>
+        <dc:creator>FromZeroToOne</dc:creator>
         <media:content url="http://example.orgimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         

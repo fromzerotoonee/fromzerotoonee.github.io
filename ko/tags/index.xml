@@ -11,8 +11,8 @@
     <description>Recent content in Tags on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>admin@fromzerotoone.in (fromzerotoone)</managingEditor>
-    <webMaster>admin@fromzerotoone.in (fromzerotoone)</webMaster>
+    <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
+    <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     
         <atom:link href="http://example.org/ko/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -23,12 +23,12 @@
         <title>index</title>
         <link>http://example.org/ko/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>admin@fromzerotoone.in (fromzerotoone)</author>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>http://example.org/ko/tags/index/</guid>
         <description></description>
         
-        <dc:creator>fromzerotoone</dc:creator>
+        <dc:creator>FromZeroToOne</dc:creator>
         
         
         

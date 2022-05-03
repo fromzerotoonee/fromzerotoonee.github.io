@@ -11,8 +11,8 @@
     <description>Recent content in index on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>admin@fromzerotoone.in (fromzerotoone)</managingEditor>
-    <webMaster>admin@fromzerotoone.in (fromzerotoone)</webMaster>
+    <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
+    <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     
         <atom:link href="http://example.org/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +23,7 @@
         <title>Posts</title>
         <link>http://example.org/en/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>admin@fromzerotoone.in (fromzerotoone)</author>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>http://example.org/en/posts/</guid>
         <description></description>
