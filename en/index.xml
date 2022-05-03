@@ -31,15 +31,43 @@
       
         
       
-        
-      
-        
-      
-        
-      
-        
-      
 
+      
+      <item>
+        <title>Hugo Zzo Theme</title>
+        <link>http://example.org/en/showcase/hugo/hugo-theme-zzo/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>admin@fromzerotoone.in (fromzerotoone)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>http://example.org/en/showcase/hugo/hugo-theme-zzo/</guid>
+        <description></description>
+        
+        <dc:creator>fromzerotoone</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Hugo zDoc Theme</title>
+        <link>http://example.org/en/showcase/hugo/hugo-theme-zdoc/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>admin@fromzerotoone.in (fromzerotoone)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>http://example.org/en/showcase/hugo/hugo-theme-zdoc/</guid>
+        <description></description>
+        
+        <dc:creator>fromzerotoone</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Shortcodes</title>
@@ -513,6 +541,96 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
           
             
           
+        
+      </item>
+      
+      <item>
+        <title>Cartoon</title>
+        <link>http://example.org/en/gallery/cartoon/</link>
+        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
+        <author>admin@fromzerotoone.in (fromzerotoone)</author>
+        <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
+        <guid>http://example.org/en/gallery/cartoon/</guid>
+        <description>Sample images from Pixabay</description>
+        
+        <dc:creator>fromzerotoone</dc:creator>
+        <media:content url="http://example.orgimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Photo</title>
+        <link>http://example.org/en/gallery/photo/</link>
+        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
+        <author>admin@fromzerotoone.in (fromzerotoone)</author>
+        <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
+        <guid>http://example.org/en/gallery/photo/</guid>
+        <description>Sample images from Pixabay</description>
+        
+        <dc:creator>fromzerotoone</dc:creator>
+        <media:content url="http://example.orgimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Good Title</title>
+        <link>http://example.org/en/publication/article/article_any_folder_name_1/</link>
+        <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+        <author>admin@fromzerotoone.in (fromzerotoone)</author>
+        <atom:modified>Fri, 01 Jun 2018 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/en/publication/article/article_any_folder_name_1/</guid>
+        <description></description>
+        
+        <dc:creator>fromzerotoone</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Donec vel ipsum vulputate, dapibus magna quis</title>
+        <link>http://example.org/en/publication/book/book_any_folder_name_1/</link>
+        <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+        <author>admin@fromzerotoone.in (fromzerotoone)</author>
+        <atom:modified>Thu, 01 Jun 2017 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/en/publication/book/book_any_folder_name_1/</guid>
+        <description></description>
+        
+        <dc:creator>fromzerotoone</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Book Review: Duis vulputate</title>
+        <link>http://example.org/en/publication/misc/misc_any_folder_name_1/</link>
+        <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+        <author>admin@fromzerotoone.in (fromzerotoone)</author>
+        <atom:modified>Tue, 01 Nov 2016 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/en/publication/misc/misc_any_folder_name_1/</guid>
+        <description></description>
+        
+        <dc:creator>fromzerotoone</dc:creator>
+        
+        
+        
+        
+        
         
       </item>
       
