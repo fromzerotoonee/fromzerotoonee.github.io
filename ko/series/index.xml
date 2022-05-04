@@ -6,18 +6,37 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Series on Hugo Zzo Theme</title>
+    <title>Series on Atoms Blog</title>
     <link>https://fromzerotoonee.github.io/ko/series/</link>
-    <description>Recent content in Series on Hugo Zzo Theme</description>
+    <description>Recent content in Series on Atoms Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
-    <copyright>©2022, All Rights Reserved</copyright>
+    <copyright>©{2022}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/ko/series/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Themes Guide</title>
+        <link>https://fromzerotoonee.github.io/ko/series/themes-guide/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/ko/series/themes-guide/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
 
     
