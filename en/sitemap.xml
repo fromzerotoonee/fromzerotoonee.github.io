@@ -9,7 +9,7 @@
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <lastmod>2022-05-08T17:50:58+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -20,6 +20,12 @@
                 hreflang="en"
                 href="https://fromzerotoonee.github.io/en/"
                 />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/posts/</loc>
+    <lastmod>2022-05-08T17:50:58+05:30</lastmod>
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/posts/vulnhub/</loc>
+    <lastmod>2022-05-08T17:50:58+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
@@ -32,9 +38,6 @@
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/posts/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
