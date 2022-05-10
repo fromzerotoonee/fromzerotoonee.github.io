@@ -63,42 +63,6 @@
       </item>
       
       <item>
-        <title>Cartoon</title>
-        <link>https://fromzerotoonee.github.io/ko/en/gallery/cartoon/</link>
-        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://fromzerotoonee.github.io/ko/en/gallery/cartoon/</guid>
-        <description>Sample images from Pixabay</description>
-        
-        <dc:creator>FromZeroToOne</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Photo</title>
-        <link>https://fromzerotoonee.github.io/ko/en/gallery/photo/</link>
-        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://fromzerotoonee.github.io/ko/en/gallery/photo/</guid>
-        <description>Sample images from Pixabay</description>
-        
-        <dc:creator>FromZeroToOne</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>Presentations</title>
         <link>https://fromzerotoonee.github.io/ko/en/presentation/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
