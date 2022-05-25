@@ -42,7 +42,7 @@
 
       
       <item>
-        <title>Flawscloud</title>
+        <title>Flaws.cloud - AWS Security practice</title>
         <link>https://fromzerotoonee.github.io/en/posts/flawscloud/</link>
         <pubDate>Wed, 25 May 2022 09:31:38 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
@@ -54,7 +54,7 @@ let’s start with level 1.
 Level 1 This level is buckets of fun. See if you can find the first sub-domain.</description>
         
         <dc:creator>Atom</dc:creator>
-        
+        <media:content url="https://fromzerotoonee.github.io//images/cloudpentest/flaw.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
