@@ -9,10 +9,10 @@
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/ko/en/</loc>
-    <lastmod>2022-05-08T17:50:58+05:30</lastmod>
+    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/ko/</loc>
-    <lastmod>2022-05-08T17:50:58+05:30</lastmod>
+    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -24,8 +24,21 @@
                 href="https://fromzerotoonee.github.io/ko/"
                 />
   </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/tags/aws-cli/</loc>
+    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/tags/aws-cli/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/tags/aws-cli/"
+                />
+  </url><url>
     <loc>https://fromzerotoonee.github.io/ko/categories/</loc>
-    <lastmod>2022-05-08T17:50:58+05:30</lastmod>
+    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -37,11 +50,66 @@
                 href="https://fromzerotoonee.github.io/ko/categories/"
                 />
   </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/categories/cloud-pentest/</loc>
+    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/categories/cloud-pentest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/categories/cloud-pentest/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/series/cloud-pentest-aws/</loc>
+    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/series/cloud-pentest-aws/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/series/cloud-pentest-aws/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/en/posts/flawscloud/</loc>
+    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/tags/git/</loc>
+    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/tags/git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/tags/git/"
+                />
+  </url><url>
     <loc>https://fromzerotoonee.github.io/ko/en/posts/</loc>
-    <lastmod>2022-05-08T17:50:58+05:30</lastmod>
+    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/tags/s3/</loc>
+    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/tags/s3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/tags/s3/"
+                />
   </url><url>
     <loc>https://fromzerotoonee.github.io/ko/series/</loc>
-    <lastmod>2022-05-08T17:50:58+05:30</lastmod>
+    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -51,6 +119,19 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://fromzerotoonee.github.io/ko/series/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/tags/</loc>
+    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/tags/"
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/ko/tags/suid/</loc>
@@ -77,19 +158,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://fromzerotoonee.github.io/ko/tags/systemctl/"
-                />
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/ko/tags/</loc>
-    <lastmod>2022-05-08T17:50:58+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fromzerotoonee.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/tags/"
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/ko/en/posts/vulnversity/</loc>

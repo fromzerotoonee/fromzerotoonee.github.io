@@ -14,11 +14,65 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 08 May 2022 17:50:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 25 May 2022 09:31:38 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>aws-cli</title>
+        <link>https://fromzerotoonee.github.io/en/tags/aws-cli/</link>
+        <pubDate>Wed, 25 May 2022 09:31:38 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/aws-cli/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>git</title>
+        <link>https://fromzerotoonee.github.io/en/tags/git/</link>
+        <pubDate>Wed, 25 May 2022 09:31:38 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/git/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>s3</title>
+        <link>https://fromzerotoonee.github.io/en/tags/s3/</link>
+        <pubDate>Wed, 25 May 2022 09:31:38 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/s3/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>suid</title>
