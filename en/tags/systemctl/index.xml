@@ -21,7 +21,7 @@
 
       
       <item>
-        <title>Try Hach Me - Vulnversity</title>
+        <title>Try Hack Me - Vulnversity</title>
         <link>https://fromzerotoonee.github.io/en/posts/vulnversity/</link>
         <pubDate>Sun, 08 May 2022 17:50:58 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
@@ -48,7 +48,11 @@ Info Table   Title Vulnversity    Description Learn about active recon, web app 
         
           
             
-              <category>tryhackme</category>
+              <category>TryHackMe</category>
+            
+          
+            
+              <category>Linux</category>
             
           
         
