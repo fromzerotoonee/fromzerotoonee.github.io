@@ -48,11 +48,11 @@
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         <atom:modified>Tue, 31 May 2022 12:23:44 +0530</atom:modified>
         <guid>https://fromzerotoonee.github.io/en/posts/vulnhub-kioptrix-level-1/</guid>
-        <description>Info Table   Title Kioptrix - Level 1    Category VulnHub   Description Learn about active recon, CVE     Difficulty Easy   Maker Kioptrix   Hi hackers Welcome Back Today we are going to look into vulnhub box which is Kioptrix-Level-1 , you can download this box using this link 
+        <description>Mind Map  Info Table   Title Kioptrix - Level 1    Category VulnHub   Description Learn about active recon, CVE     Difficulty Easy   Maker Kioptrix   Hi hackers Welcome Back Today we are going to look into vulnhub box which is Kioptrix-Level-1 , you can download this box using this link 
 Open VMware and import .vmx file into it, once you get imported , you can able to find login screen</description>
         
         <dc:creator>Atom</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io//images/tryhackme/vulnversity/cover.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://fromzerotoonee.github.io//images/vulnhub/kioptrix1/lg.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
