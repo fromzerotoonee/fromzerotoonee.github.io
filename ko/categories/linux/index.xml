@@ -27,7 +27,7 @@
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         <atom:modified>Tue, 31 May 2022 12:23:44 +0530</atom:modified>
         <guid>https://fromzerotoonee.github.io/ko/en/posts/vulnhub-kioptrix-level-1/</guid>
-        <description>Mind Map  Info Table   Title Kioptrix - Level 1    Category VulnHub   Description Learn about active recon, CVE     Difficulty Easy   Maker Kioptrix   Hi hackers Welcome Back Today we are going to look into vulnhub box which is Kioptrix-Level-1 , you can download this box using this link 
+        <description>Mind Map  Info Table   Title Kioptrix - Level 1    Category VulnHub   OS Linux     Difficulty Easy   Maker Kioptrix   Reconnaissance Hi hackers Welcome Back Today we are going to look into vulnhub box which is Kioptrix-Level-1 , you can download this box using this link 
 Open VMware and import .vmx file into it, once you get imported , you can able to find login screen</description>
         
         <dc:creator>Atom</dc:creator>
@@ -35,6 +35,10 @@ Open VMware and import .vmx file into it, once you get imported , you can able t
         
         
         
+          
+            
+              <category>samba</category>
+            
           
             
               <category>OpenLuck</category>
@@ -60,6 +64,10 @@ Open VMware and import .vmx file into it, once you get imported , you can able t
         
           
             
+              <category>Easy</category>
+            
+          
+            
               <category>VulnHub</category>
             
           
@@ -68,10 +76,24 @@ Open VMware and import .vmx file into it, once you get imported , you can able t
             
           
             
-              <category>CVE</category>
+              <category>CVE Exploitation</category>
+            
+          
+            
+              <category>Metasploit</category>
+            
+          
+            
+              <category>Public Exploit</category>
             
           
         
+        
+          
+            
+              <category>Pratical Ethical Hacking TCM</category>
+            
+          
         
       </item>
       

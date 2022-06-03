@@ -14,19 +14,109 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 31 May 2022 12:23:44 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jun 2022 17:01:34 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>CVE</title>
-        <link>https://fromzerotoonee.github.io/en/categories/cve/</link>
-        <pubDate>Tue, 31 May 2022 12:23:44 +0530</pubDate>
+        <title>CVE Exploitation</title>
+        <link>https://fromzerotoonee.github.io/en/categories/cve-exploitation/</link>
+        <pubDate>Thu, 02 Jun 2022 17:01:34 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
-        <guid>https://fromzerotoonee.github.io/en/categories/cve/</guid>
+        <guid>https://fromzerotoonee.github.io/en/categories/cve-exploitation/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Easy</title>
+        <link>https://fromzerotoonee.github.io/en/categories/easy/</link>
+        <pubDate>Thu, 02 Jun 2022 17:01:34 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/categories/easy/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>HackTheBox</title>
+        <link>https://fromzerotoonee.github.io/en/categories/hackthebox/</link>
+        <pubDate>Thu, 02 Jun 2022 17:01:34 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/categories/hackthebox/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Metasploit</title>
+        <link>https://fromzerotoonee.github.io/en/categories/metasploit/</link>
+        <pubDate>Thu, 02 Jun 2022 17:01:34 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/categories/metasploit/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Public Exploit</title>
+        <link>https://fromzerotoonee.github.io/en/categories/public-exploit/</link>
+        <pubDate>Thu, 02 Jun 2022 17:01:34 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/categories/public-exploit/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Windows</title>
+        <link>https://fromzerotoonee.github.io/en/categories/windows/</link>
+        <pubDate>Thu, 02 Jun 2022 17:01:34 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/categories/windows/</guid>
         <description></description>
         
         <dc:creator>FromZeroToOne</dc:creator>

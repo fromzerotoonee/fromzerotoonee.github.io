@@ -9,10 +9,10 @@
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/ko/en/</loc>
-    <lastmod>2022-05-31T12:23:44+05:30</lastmod>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/ko/</loc>
-    <lastmod>2022-05-31T12:23:44+05:30</lastmod>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,7 +25,7 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/ko/categories/</loc>
-    <lastmod>2022-05-31T12:23:44+05:30</lastmod>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -37,17 +37,153 @@
                 href="https://fromzerotoonee.github.io/ko/categories/"
                 />
   </url><url>
-    <loc>https://fromzerotoonee.github.io/ko/categories/cve/</loc>
-    <lastmod>2022-05-31T12:23:44+05:30</lastmod>
+    <loc>https://fromzerotoonee.github.io/ko/categories/cve-exploitation/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fromzerotoonee.github.io/en/categories/cve/"
+                href="https://fromzerotoonee.github.io/en/categories/cve-exploitation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/categories/cve/"
+                href="https://fromzerotoonee.github.io/ko/categories/cve-exploitation/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/tags/cve-id-2008-4250/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/tags/cve-id-2008-4250/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/tags/cve-id-2008-4250/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/categories/easy/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/categories/easy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/categories/easy/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/en/posts/legacy/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/categories/hackthebox/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/categories/hackthebox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/categories/hackthebox/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/categories/metasploit/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/categories/metasploit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/categories/metasploit/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/en/posts/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/series/pratical-ethical-hacking-tcm/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/series/pratical-ethical-hacking-tcm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/series/pratical-ethical-hacking-tcm/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/categories/public-exploit/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/categories/public-exploit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/categories/public-exploit/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/tags/samba/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/tags/samba/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/tags/samba/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/series/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/series/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/tags/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/tags/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/ko/categories/windows/</loc>
+    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/categories/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/categories/windows/"
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/ko/tags/cve-id-2002-0082/</loc>
@@ -113,22 +249,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://fromzerotoonee.github.io/ko/tags/openluck/"
-                />
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/ko/en/posts/</loc>
-    <lastmod>2022-05-31T12:23:44+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/ko/tags/</loc>
-    <lastmod>2022-05-31T12:23:44+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fromzerotoonee.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/tags/"
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/ko/tags/trance2open/</loc>
@@ -226,19 +346,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://fromzerotoonee.github.io/ko/tags/s3/"
-                />
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/ko/series/</loc>
-    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fromzerotoonee.github.io/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/series/"
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/ko/tags/suid/</loc>

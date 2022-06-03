@@ -1334,7 +1334,7 @@
 <meta name="description" content=" This Kioptrix VM Image are easy challenges. The object of the game is to acquire root access via any means possible (except actually hacking the VM server or player). The purpose of these games are to learn the basic tools and techniques in vulnerability assessment and exploitation. There are more ways then one to successfully complete the challenges." />
 
 
-<meta name="keywords" content="OpenLuck,OpenFuck,Trance2open,CVE-ID-2002-0082,CVE-ID-2003-0201">
+<meta name="keywords" content="samba,OpenLuck,OpenFuck,Trance2open,CVE-ID-2002-0082,CVE-ID-2003-0201">
 
 <meta name="created" content="2022-05-31T12:23:44&#43;0530">
 <meta name="modified" content="2022-05-31T12:23:44&#43;0530">
@@ -1399,7 +1399,7 @@
     "dateModified": "2022-05-31T12:23:44+05:30",
     "url" : "https://fromzerotoonee.github.io/en/posts/vulnhub-kioptrix-level-1/",
     "description": " This Kioptrix VM Image are easy challenges. The object of the game is to acquire root access via any means possible (except actually hacking the VM server or player). The purpose of these games are to learn the basic tools and techniques in vulnerability assessment and exploitation. There are more ways then one to successfully complete the challenges.",
-    "keywords": ["OpenLuck","OpenFuck","Trance2open","CVE-ID-2002-0082","CVE-ID-2003-0201"],
+    "keywords": ["samba","OpenLuck","OpenFuck","Trance2open","CVE-ID-2002-0082","CVE-ID-2003-0201"],
     "image" : "https://fromzerotoonee.github.io/images/vulnhub/kioptrix1/lg.png",
     "author": {
       "@type": "Person",
@@ -1763,6 +1763,8 @@
   🏷️
   
 
+  <li><a href="https://fromzerotoonee.github.io/en/tags/samba/" class="single__tag" title="samba">#samba</a></li>
+
   <li><a href="https://fromzerotoonee.github.io/en/tags/openluck/" class="single__tag" title="OpenLuck">#OpenLuck</a></li>
 
   <li><a href="https://fromzerotoonee.github.io/en/tags/openfuck/" class="single__tag" title="OpenFuck">#OpenFuck</a></li>
@@ -1790,7 +1792,7 @@
   
 </figure>
 <h2 id="info-table">Info Table</h2>
-<table style="width:70%">
+<table style="width:100%">
  <thead>
   <tr>
     <th>Title</th>
@@ -1802,8 +1804,8 @@
     <td>VulnHub</td>
     </tr>
   <tr>
-    <td>Description</td>
-    <td>Learn about active recon, CVE </td>
+    <td>OS</td>
+    <td>Linux </td>
     </tr>
   </tr>
    <tr>
@@ -1815,7 +1817,8 @@
     <td>Kioptrix</td>
     </tr>
 </table>
-<p>Hi hackers Welcome Back Today we are going to look into  vulnhub box which is Kioptrix-Level-1 , you can download this box using this <a href=[https://www.vulnhub.com/entry/kioptrix-level-1-1,22/](https://www.vulnhub.com/entry/kioptrix-level-1-1,22/) > link </a></p>
+<h2 id="reconnaissance">Reconnaissance</h2>
+<p>Hi hackers Welcome Back Today we are going to look into  vulnhub box which is Kioptrix-Level-1 , you can download this box using this <a href=https://www.vulnhub.com/entry/kioptrix-level-1-1,22/ > link </a></p>
 <p>Open VMware and import .vmx file into it, once you get imported , you can able to find login screen</p>
 <p>Before getting started, we need to identify the ip address of vulnhub instance. from now let us consider attacker machine is our machine and target machine is koptrix machine. we can identify target machine ip address by using net discover,</p>
 <p>Net discover is a tool which discover network ip address automatically by searching private ip address of each class.</p>
@@ -3182,7 +3185,7 @@
     
     
       
-        <a href="https://twitter.com/intent/tweet?text=Vulnhub%20-%20Kioptrix%20Level%201&url=https%3a%2f%2ffromzerotoonee.github.io%2fen%2fposts%2fvulnhub-kioptrix-level-1%2f&hashtags=OpenLuck%2cOpenFuck%2cTrance2open%2cCVE-ID-2002-0082%2cCVE-ID-2003-0201&via=Atom" title="Twitter" aria-label="Twitter Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
+        <a href="https://twitter.com/intent/tweet?text=Vulnhub%20-%20Kioptrix%20Level%201&url=https%3a%2f%2ffromzerotoonee.github.io%2fen%2fposts%2fvulnhub-kioptrix-level-1%2f&hashtags=samba%2cOpenLuck%2cOpenFuck%2cTrance2open%2cCVE-ID-2002-0082%2cCVE-ID-2003-0201&via=Atom" title="Twitter" aria-label="Twitter Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
           <svg data-name="twitter" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="35" height="35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m21.534 7.113c.976-.693 1.797-1.558 2.466-2.554v-.001c-.893.391-1.843.651-2.835.777 1.02-.609 1.799-1.566 2.165-2.719-.951.567-2.001.967-3.12 1.191-.903-.962-2.19-1.557-3.594-1.557-2.724 0-4.917 2.211-4.917 4.921 0 .39.033.765.114 1.122-4.09-.2-7.71-2.16-10.142-5.147-.424.737-.674 1.58-.674 2.487 0 1.704.877 3.214 2.186 4.089-.791-.015-1.566-.245-2.223-.606v.054c0 2.391 1.705 4.377 3.942 4.835-.401.11-.837.162-1.29.162-.315 0-.633-.018-.931-.084.637 1.948 2.447 3.381 4.597 3.428-1.674 1.309-3.8 2.098-6.101 2.098-.403 0-.79-.018-1.177-.067 2.18 1.405 4.762 2.208 7.548 2.208 8.683 0 14.342-7.244 13.986-14.637z"/></svg>
         </a>
       
@@ -3324,6 +3327,13 @@
       </a>
     
     <div class="grow"></div>
+    
+      <a href="https://fromzerotoonee.github.io/en/posts/legacy/" class="pagination-single__right">      
+        <div class="pagination-single__right-title">Hack The Box - Legacy </div>
+        <div class="pagination-single__icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M5 13h11.17l-4.88 4.88c-.39.39-.39 1.03 0 1.42.39.39 1.02.39 1.41 0l6.59-6.59c.39-.39.39-1.02 0-1.41l-6.58-6.6c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41L16.17 11H5c-.55 0-1 .45-1 1s.45 1 1 1z"/></svg>
+        </div>
+      </a>
     
   
 </nav>
@@ -3779,9 +3789,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-  <script defer src="https://cdn.jsdelivr.net/npm/raphael@2.3.0/raphael.min.js" integrity="sha256-TabprKdeNXbSesCWLMrcbWSDzUhpAdcNPe5Q53rn9Yg=" crossorigin="anonymous"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/flowchart.js@1.12.0/release/flowchart.min.js" integrity="sha256-xghRsaOFJXNxT9sgANknngHh3FjUQWrJUae7GP&#43;2Atc=" crossorigin="anonymous"></script>
-
 
 
 
@@ -4043,7 +4050,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     
     
-    var lib = JSON.parse("[\"flowchartjs\"]");
+    var lib = JSON.parse("null");
 
     if (lib && lib.includes('mermaid')) {
       
@@ -4417,6 +4424,7 @@ document.addEventListener('DOMContentLoaded', function () {
   <ul>
     <li><a href="#mind-map">Mind Map</a></li>
     <li><a href="#info-table">Info Table</a></li>
+    <li><a href="#reconnaissance">Reconnaissance</a></li>
     <li><a href="#port-22">Port 22</a></li>
     <li><a href="#port-80443">Port 80,443</a>
       <ul>
