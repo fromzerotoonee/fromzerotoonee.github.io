@@ -14,11 +14,77 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 31 May 2022 12:23:44 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2022 17:29:31 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/en/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Hack The Box - Lame</title>
+        <link>https://fromzerotoonee.github.io/en/posts/lame/</link>
+        <pubDate>Tue, 07 Jun 2022 17:29:31 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        <atom:modified>Tue, 07 Jun 2022 17:29:31 +0530</atom:modified>
+        <guid>https://fromzerotoonee.github.io/en/posts/lame/</guid>
+        <description>Hi Hackers Welcome Back Today we are going to look at Hack The Box Lame Machine.
+
+Info Table   Title Lame    Category Hack The Box   OS Linux    Difficulty Easy   Maker       Kill Chain Summery While enumerating ports and services we can able to find the service, which is vulnerable to infamous CVE - 2007-2447 &amp;amp; 2004-2687.</description>
+        
+        <dc:creator>Atom</dc:creator>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/lame/Lame.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>samba</category>
+            
+          
+            
+              <category>CVE-ID-2007-2447</category>
+            
+          
+            
+              <category>CVE-ID-2004-2687</category>
+            
+          
+        
+        
+          
+            
+              <category>Easy</category>
+            
+          
+            
+              <category>HackTheBox</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>CVE Exploitation</category>
+            
+          
+            
+              <category>Metasploit</category>
+            
+          
+            
+              <category>Public Exploit</category>
+            
+          
+        
+        
+          
+            
+              <category>Pratical Ethical Hacking TCM</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Vulnhub - Kioptrix Level 1</title>

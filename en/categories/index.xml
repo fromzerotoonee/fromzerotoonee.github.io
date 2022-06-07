@@ -14,7 +14,7 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 02 Jun 2022 17:01:34 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2022 17:29:31 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@
       <item>
         <title>CVE Exploitation</title>
         <link>https://fromzerotoonee.github.io/en/categories/cve-exploitation/</link>
-        <pubDate>Thu, 02 Jun 2022 17:01:34 +0530</pubDate>
+        <pubDate>Tue, 07 Jun 2022 17:29:31 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>https://fromzerotoonee.github.io/en/categories/cve-exploitation/</guid>
@@ -41,7 +41,7 @@
       <item>
         <title>Easy</title>
         <link>https://fromzerotoonee.github.io/en/categories/easy/</link>
-        <pubDate>Thu, 02 Jun 2022 17:01:34 +0530</pubDate>
+        <pubDate>Tue, 07 Jun 2022 17:29:31 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>https://fromzerotoonee.github.io/en/categories/easy/</guid>
@@ -59,7 +59,7 @@
       <item>
         <title>HackTheBox</title>
         <link>https://fromzerotoonee.github.io/en/categories/hackthebox/</link>
-        <pubDate>Thu, 02 Jun 2022 17:01:34 +0530</pubDate>
+        <pubDate>Tue, 07 Jun 2022 17:29:31 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>https://fromzerotoonee.github.io/en/categories/hackthebox/</guid>
@@ -75,9 +75,27 @@
       </item>
       
       <item>
+        <title>Linux</title>
+        <link>https://fromzerotoonee.github.io/en/categories/linux/</link>
+        <pubDate>Tue, 07 Jun 2022 17:29:31 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/categories/linux/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Metasploit</title>
         <link>https://fromzerotoonee.github.io/en/categories/metasploit/</link>
-        <pubDate>Thu, 02 Jun 2022 17:01:34 +0530</pubDate>
+        <pubDate>Tue, 07 Jun 2022 17:29:31 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>https://fromzerotoonee.github.io/en/categories/metasploit/</guid>
@@ -95,7 +113,7 @@
       <item>
         <title>Public Exploit</title>
         <link>https://fromzerotoonee.github.io/en/categories/public-exploit/</link>
-        <pubDate>Thu, 02 Jun 2022 17:01:34 +0530</pubDate>
+        <pubDate>Tue, 07 Jun 2022 17:29:31 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>https://fromzerotoonee.github.io/en/categories/public-exploit/</guid>
@@ -117,24 +135,6 @@
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>https://fromzerotoonee.github.io/en/categories/windows/</guid>
-        <description></description>
-        
-        <dc:creator>FromZeroToOne</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Linux</title>
-        <link>https://fromzerotoonee.github.io/en/categories/linux/</link>
-        <pubDate>Tue, 31 May 2022 12:23:44 +0530</pubDate>
-        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        
-        <guid>https://fromzerotoonee.github.io/en/categories/linux/</guid>
         <description></description>
         
         <dc:creator>FromZeroToOne</dc:creator>

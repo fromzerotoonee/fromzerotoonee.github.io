@@ -28,7 +28,7 @@
         <atom:modified>Thu, 02 Jun 2022 17:01:34 +0530</atom:modified>
         <guid>https://fromzerotoonee.github.io/ko/en/posts/legacy/</guid>
         <description>Hi Hackers Welcome Back this is my very first Hack The Box Machine which i have solved.
- Info Table   Title Legacy    Category Hack The Box   OS Windows    Difficulty Easy   Maker ch4p     Maker dmw     Kill Chain Summery While enumerating ports and services we find the service, which is vulnerable to infamous MS08-067 &amp;amp; MS17-010 SMB vulnerabilities which can be easily exploited with publicly available scripts and Metasploit.</description>
+ Info Table   Title Legacy    Category Hack The Box   OS Windows    Difficulty Easy   Maker       Kill Chain Summery While enumerating ports and services we can able to find the service, which is vulnerable to infamous MS08-067 &amp;amp; MS17-010 SMB vulnerabilities which can be easily exploited with publicly available scripts and Metasploit.</description>
         
         <dc:creator>Atom</dc:creator>
         <media:content url="https://fromzerotoonee.github.io//images/hackthebox/legacy/Legacy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
