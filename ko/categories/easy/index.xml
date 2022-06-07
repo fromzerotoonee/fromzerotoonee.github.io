@@ -28,8 +28,7 @@
         <atom:modified>Tue, 07 Jun 2022 17:29:31 +0530</atom:modified>
         <guid>https://fromzerotoonee.github.io/ko/en/posts/lame/</guid>
         <description>Hi Hackers Welcome Back Today we are going to look at Hack The Box Lame Machine.
-
-Info Table   Title Lame    Category Hack The Box   OS Linux    Difficulty Easy   Maker       Kill Chain Summery While enumerating ports and services we can able to find the service, which is vulnerable to infamous CVE - 2007-2447 &amp;amp; 2004-2687.</description>
+ Info Table   Title Lame    Category Hack The Box   OS Linux    Difficulty Easy   Maker       Kill Chain Summery While enumerating ports and services we can able to find the service, which is vulnerable to infamous CVE - 2007-2447 &amp;amp; 2004-2687.</description>
         
         <dc:creator>Atom</dc:creator>
         <media:content url="https://fromzerotoonee.github.io//images/hackthebox/lame/Lame.png" medium="image"><media:title type="html">featured image</media:title></media:content>
