@@ -1331,7 +1331,7 @@
 
 
     
-<meta name="description" content=" Legacy from HackTheBox is an retired machine which is vulnerable to infamous CVE - 2007-2447 &amp; 2004-2687 SMB vulnerabilities which can be easily exploited with publicly available scripts and Metasploit " />
+<meta name="description" content=" Lame from HackTheBox is an retired machine which is vulnerable to infamous CVE - 2007-2447 &amp; 2004-2687 SMB vulnerabilities which can be easily exploited with publicly available scripts and Metasploit " />
 
 
 <meta name="keywords" content="samba,CVE-ID-2007-2447,CVE-ID-2004-2687">
@@ -1348,7 +1348,7 @@
 <meta property="og:title" content="Hack The Box - Lame">
 <meta property="og:url" content="https://fromzerotoonee.github.io/en/posts/lame/">
 <meta property="og:type" content="article">
-<meta property="og:description" content=" Legacy from HackTheBox is an retired machine which is vulnerable to infamous CVE - 2007-2447 &amp; 2004-2687 SMB vulnerabilities which can be easily exploited with publicly available scripts and Metasploit ">
+<meta property="og:description" content=" Lame from HackTheBox is an retired machine which is vulnerable to infamous CVE - 2007-2447 &amp; 2004-2687 SMB vulnerabilities which can be easily exploited with publicly available scripts and Metasploit ">
 
   
     <meta property="og:image" content="https://fromzerotoonee.github.io/images/hackthebox/lame/Lame.png">
@@ -1356,7 +1356,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:app:name:iphone" content="Atoms Blog">
     <meta property="twitter:title" content="Hack The Box - Lame">
-    <meta property="twitter:description" content=" Legacy from HackTheBox is an retired machine which is vulnerable to infamous CVE - 2007-2447 &amp; 2004-2687 SMB vulnerabilities which can be easily exploited with publicly available scripts and Metasploit ">
+    <meta property="twitter:description" content=" Lame from HackTheBox is an retired machine which is vulnerable to infamous CVE - 2007-2447 &amp; 2004-2687 SMB vulnerabilities which can be easily exploited with publicly available scripts and Metasploit ">
   
 
 <meta name="generator" content="Hugo 0.98.0" />
@@ -1398,7 +1398,7 @@
     "datePublished": "2022-06-07T17:29:31+05:30",
     "dateModified": "2022-06-07T17:29:31+05:30",
     "url" : "https://fromzerotoonee.github.io/en/posts/lame/",
-    "description": " Legacy from HackTheBox is an retired machine which is vulnerable to infamous CVE - 2007-2447 \u0026 2004-2687 SMB vulnerabilities which can be easily exploited with publicly available scripts and Metasploit ",
+    "description": " Lame from HackTheBox is an retired machine which is vulnerable to infamous CVE - 2007-2447 \u0026 2004-2687 SMB vulnerabilities which can be easily exploited with publicly available scripts and Metasploit ",
     "keywords": ["samba","CVE-ID-2007-2447","CVE-ID-2004-2687"],
     "image" : "https://fromzerotoonee.github.io/images/hackthebox/lame/Lame.png",
     "author": {
@@ -1774,7 +1774,7 @@
     </div>
     <article class="single__contents" data-dir="ltr" data-ani="true">
       
-      <p>Hi Hackers Welcome Back Today we are going to look at Hack The Box Lame Machine.</p>
+      <p>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Blue Machine.</p>
 <figure >
   
   
@@ -1998,15 +1998,15 @@
 </div>
 </div><div class="box"><p>Service and its Version</p>
 <ul>
-<li>21/tcp  open  ftp         vsftpd 2.3.4</li>
-<li>22/tcp  open  ssh         OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)</li>
+<li>21/tcp  open  ftp        <code>vsftpd 2.3.4</code></li>
+<li>22/tcp  open  ssh        <code>OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)</code></li>
 <li>139/tcp open  netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP)</li>
-<li>445/tcp open  netbios-ssn Samba smbd 3.0.20-Debian (workgroup: WORKGROUP)</li>
-<li>3632/tcp open  distccd distccd v1 ((GNU) 4.2.4 (Ubuntu 4.2.4-1ubuntu4))</li>
+<li>445/tcp open  netbios-ssn Samba <code>smbd 3.0.20-Debian (workgroup: WORKGROUP)</code></li>
+<li>3632/tcp open  distccd distccd v1 <code>((GNU) 4.2.4 (Ubuntu 4.2.4-1ubuntu4))</code></li>
 </ul>
 </div>
 <h2 id="enumeration--port-21">Enumeration  port 21</h2>
-<p>The version of the vsftp is vulnerable to CVE: CVE-2011-2523, i have tried both metasploit and public exploit but nothing helped me probably they might be patched</p>
+<p>The version of the vsftp is vulnerable to CVE: CVE-2011-2523, i have tried both metasploit and public exploit but nothing helped me probably they might be patched,</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -2088,9 +2088,9 @@
 </span></span><span class="line"><span class="cl">Shellcodes: No Results
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>we did’t find any RCE on this Version, lets look on other ports if there are any critical vulnerability</p>
+</div><p>we did’t find any RCE on this Version, lets we move on other ports if there are any critical vulnerability</p>
 <h2 id="ennum-and-exploit-port-139--445">Ennum and Exploit port 139 &amp; 445</h2>
-<p>we already Know the version let&rsquo;s look into exploit database weather the target version is vulerable to any exploit</p>
+<p>we already Know the version let&rsquo;s look into exploit database weather the target version is vulnerable to any exploit</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -2983,6 +2983,13 @@
       </a>
     
     <div class="grow"></div>
+    
+      <a href="https://fromzerotoonee.github.io/en/posts/blue/" class="pagination-single__right">      
+        <div class="pagination-single__right-title">Hack The Box - Blue</div>
+        <div class="pagination-single__icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M5 13h11.17l-4.88 4.88c-.39.39-.39 1.03 0 1.42.39.39 1.02.39 1.41 0l6.59-6.59c.39-.39.39-1.02 0-1.41l-6.58-6.6c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41L16.17 11H5c-.55 0-1 .45-1 1s.45 1 1 1z"/></svg>
+        </div>
+      </a>
     
   
 </nav>
