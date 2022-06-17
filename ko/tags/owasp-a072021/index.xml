@@ -37,11 +37,23 @@
         
           
             
-              <category>TOMCAT</category>
+              <category>Tomcat</category>
             
           
             
               <category>OWASP-A07:2021</category>
+            
+          
+            
+              <category>Malicious WAR File Upload</category>
+            
+          
+            
+              <category>Default Credentials</category>
+            
+          
+            
+              <category>Remote Code Execution</category>
             
           
         

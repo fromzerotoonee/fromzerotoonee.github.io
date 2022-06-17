@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>TOMCAT on Atoms Blog</title>
+    <title>Tomcat on Atoms Blog</title>
     <link>https://fromzerotoonee.github.io/en/tags/tomcat/</link>
-    <description>Recent content in TOMCAT on Atoms Blog</description>
+    <description>Recent content in Tomcat on Atoms Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
@@ -37,11 +37,23 @@
         
           
             
-              <category>TOMCAT</category>
+              <category>Tomcat</category>
             
           
             
               <category>OWASP-A07:2021</category>
+            
+          
+            
+              <category>Malicious WAR File Upload</category>
+            
+          
+            
+              <category>Default Credentials</category>
+            
+          
+            
+              <category>Remote Code Execution</category>
             
           
         

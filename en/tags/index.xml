@@ -14,11 +14,173 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 09 Jun 2022 10:38:09 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jun 2022 09:48:08 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>AFD</title>
+        <link>https://fromzerotoonee.github.io/en/tags/afd/</link>
+        <pubDate>Thu, 16 Jun 2022 09:48:08 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/afd/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>ASP</title>
+        <link>https://fromzerotoonee.github.io/en/tags/asp/</link>
+        <pubDate>Thu, 16 Jun 2022 09:48:08 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/asp/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>CVE-ID-2011-1249</title>
+        <link>https://fromzerotoonee.github.io/en/tags/cve-id-2011-1249/</link>
+        <pubDate>Thu, 16 Jun 2022 09:48:08 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/cve-id-2011-1249/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>IIS</title>
+        <link>https://fromzerotoonee.github.io/en/tags/iis/</link>
+        <pubDate>Thu, 16 Jun 2022 09:48:08 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/iis/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>MS11-046</title>
+        <link>https://fromzerotoonee.github.io/en/tags/ms11-046/</link>
+        <pubDate>Thu, 16 Jun 2022 09:48:08 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/ms11-046/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Remote Code Execution</title>
+        <link>https://fromzerotoonee.github.io/en/tags/remote-code-execution/</link>
+        <pubDate>Thu, 16 Jun 2022 09:48:08 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/remote-code-execution/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Unrestricted File Upload</title>
+        <link>https://fromzerotoonee.github.io/en/tags/unrestricted-file-upload/</link>
+        <pubDate>Thu, 16 Jun 2022 09:48:08 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/unrestricted-file-upload/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Default Credentials</title>
+        <link>https://fromzerotoonee.github.io/en/tags/default-credentials/</link>
+        <pubDate>Thu, 09 Jun 2022 10:38:09 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/default-credentials/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Malicious WAR File Upload</title>
+        <link>https://fromzerotoonee.github.io/en/tags/malicious-war-file-upload/</link>
+        <pubDate>Thu, 09 Jun 2022 10:38:09 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/malicious-war-file-upload/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>OWASP-A07:2021</title>
@@ -39,7 +201,7 @@
       </item>
       
       <item>
-        <title>TOMCAT</title>
+        <title>Tomcat</title>
         <link>https://fromzerotoonee.github.io/en/tags/tomcat/</link>
         <pubDate>Thu, 09 Jun 2022 10:38:09 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
