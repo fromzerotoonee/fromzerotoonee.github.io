@@ -14,11 +14,119 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 16 Jun 2022 09:48:08 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jun 2022 17:56:18 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>A06:2021-Vulnerable And Outdated Components</title>
+        <link>https://fromzerotoonee.github.io/en/tags/a062021-vulnerable-and-outdated-components/</link>
+        <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/a062021-vulnerable-and-outdated-components/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>CVE-ID-2015-6967</title>
+        <link>https://fromzerotoonee.github.io/en/tags/cve-id-2015-6967/</link>
+        <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/cve-id-2015-6967/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>File upload Vulnarability</title>
+        <link>https://fromzerotoonee.github.io/en/tags/file-upload-vulnarability/</link>
+        <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/file-upload-vulnarability/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Nibbleblog</title>
+        <link>https://fromzerotoonee.github.io/en/tags/nibbleblog/</link>
+        <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/nibbleblog/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Remote Code Execution</title>
+        <link>https://fromzerotoonee.github.io/en/tags/remote-code-execution/</link>
+        <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/remote-code-execution/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Sudo Exploitation</title>
+        <link>https://fromzerotoonee.github.io/en/tags/sudo-exploitation/</link>
+        <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/sudo-exploitation/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>AFD</title>
@@ -99,24 +207,6 @@
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>https://fromzerotoonee.github.io/en/tags/ms11-046/</guid>
-        <description></description>
-        
-        <dc:creator>FromZeroToOne</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Remote Code Execution</title>
-        <link>https://fromzerotoonee.github.io/en/tags/remote-code-execution/</link>
-        <pubDate>Thu, 16 Jun 2022 09:48:08 +0530</pubDate>
-        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        
-        <guid>https://fromzerotoonee.github.io/en/tags/remote-code-execution/</guid>
         <description></description>
         
         <dc:creator>FromZeroToOne</dc:creator>
