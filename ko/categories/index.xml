@@ -14,11 +14,83 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 24 Jun 2022 17:56:18 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 10 Oct 2022 00:26:33 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Easy</title>
+        <link>https://fromzerotoonee.github.io/ko/categories/easy/</link>
+        <pubDate>Mon, 10 Oct 2022 00:26:33 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/ko/categories/easy/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>HackTheBox</title>
+        <link>https://fromzerotoonee.github.io/ko/categories/hackthebox/</link>
+        <pubDate>Mon, 10 Oct 2022 00:26:33 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/ko/categories/hackthebox/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Linux</title>
+        <link>https://fromzerotoonee.github.io/ko/categories/linux/</link>
+        <pubDate>Mon, 10 Oct 2022 00:26:33 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/ko/categories/linux/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Public Exploit</title>
+        <link>https://fromzerotoonee.github.io/ko/categories/public-exploit/</link>
+        <pubDate>Mon, 10 Oct 2022 00:26:33 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/ko/categories/public-exploit/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>CVE Exploitation</title>
@@ -39,84 +111,12 @@
       </item>
       
       <item>
-        <title>Easy</title>
-        <link>https://fromzerotoonee.github.io/ko/categories/easy/</link>
-        <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
-        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        
-        <guid>https://fromzerotoonee.github.io/ko/categories/easy/</guid>
-        <description></description>
-        
-        <dc:creator>FromZeroToOne</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>HackTheBox</title>
-        <link>https://fromzerotoonee.github.io/ko/categories/hackthebox/</link>
-        <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
-        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        
-        <guid>https://fromzerotoonee.github.io/ko/categories/hackthebox/</guid>
-        <description></description>
-        
-        <dc:creator>FromZeroToOne</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Linux</title>
-        <link>https://fromzerotoonee.github.io/ko/categories/linux/</link>
-        <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
-        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        
-        <guid>https://fromzerotoonee.github.io/ko/categories/linux/</guid>
-        <description></description>
-        
-        <dc:creator>FromZeroToOne</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>Metasploit</title>
         <link>https://fromzerotoonee.github.io/ko/categories/metasploit/</link>
         <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>https://fromzerotoonee.github.io/ko/categories/metasploit/</guid>
-        <description></description>
-        
-        <dc:creator>FromZeroToOne</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Public Exploit</title>
-        <link>https://fromzerotoonee.github.io/ko/categories/public-exploit/</link>
-        <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
-        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        
-        <guid>https://fromzerotoonee.github.io/ko/categories/public-exploit/</guid>
         <description></description>
         
         <dc:creator>FromZeroToOne</dc:creator>
