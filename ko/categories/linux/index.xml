@@ -14,11 +14,56 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 00:38:05 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 12 Oct 2022 02:41:09 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/ko/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Hack The Box - Redeemer</title>
+        <link>https://fromzerotoonee.github.io/ko/en/posts/redeemer/</link>
+        <pubDate>Wed, 12 Oct 2022 02:41:09 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        <atom:modified>Wed, 12 Oct 2022 02:41:09 +0530</atom:modified>
+        <guid>https://fromzerotoonee.github.io/ko/en/posts/redeemer/</guid>
+        <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Redeemer Machine.
+Info Table   Room Name Redeemer    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 6379 ware open. while tryed to connect without using any password.</description>
+        
+        <dc:creator>Atom</dc:creator>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/redeemer/redeemer1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Redis</category>
+            
+          
+        
+        
+          
+            
+              <category>Very Easy</category>
+            
+          
+            
+              <category>HackTheBox</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Starting Point Tire 0</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Hack the Box - Dancing</title>
@@ -73,7 +118,7 @@ Info Table   Room Name Dancing    Category Hack The Box   OS Linux    Difficulty
         <atom:modified>Tue, 11 Oct 2022 22:13:07 +0530</atom:modified>
         <guid>https://fromzerotoonee.github.io/ko/en/posts/fawn/</guid>
         <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Fawn Machine.
-Info Table   Room Name Meow    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 21 ware open. while trying to connect with default password of anonymous user FTP ware get logged.</description>
+Info Table   Room Name Fawn    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 21 ware open. while trying to connect with default password of anonymous user FTP ware get logged.</description>
         
         <dc:creator>Atom</dc:creator>
         <media:content url="https://fromzerotoonee.github.io//images/hackthebox/fawn/fawn1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
