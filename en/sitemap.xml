@@ -9,7 +9,7 @@
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/</loc>
-    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
+    <lastmod>2022-10-11T22:13:07+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -22,7 +22,7 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/</loc>
-    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
+    <lastmod>2022-10-11T22:13:07+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -34,24 +34,24 @@
                 href="https://fromzerotoonee.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/categories/easy/</loc>
-    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
+    <loc>https://fromzerotoonee.github.io/en/tags/ftp/</loc>
+    <lastmod>2022-10-11T22:13:07+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/categories/easy/"
+                href="https://fromzerotoonee.github.io/ko/tags/ftp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fromzerotoonee.github.io/en/categories/easy/"
+                href="https://fromzerotoonee.github.io/en/tags/ftp/"
                 />
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/posts/meow/</loc>
-    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
+    <loc>https://fromzerotoonee.github.io/en/posts/fawn/</loc>
+    <lastmod>2022-10-11T22:13:07+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/hackthebox/</loc>
-    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
+    <lastmod>2022-10-11T22:13:07+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -64,7 +64,7 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/linux/</loc>
-    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
+    <lastmod>2022-10-11T22:13:07+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -77,23 +77,10 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/</loc>
-    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/categories/public-exploit/</loc>
-    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/categories/public-exploit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fromzerotoonee.github.io/en/categories/public-exploit/"
-                />
+    <lastmod>2022-10-11T22:13:07+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/series/</loc>
-    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
+    <lastmod>2022-10-11T22:13:07+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -106,7 +93,7 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/series/starting-point-tire-0/</loc>
-    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
+    <lastmod>2022-10-11T22:13:07+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -119,7 +106,7 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/</loc>
-    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
+    <lastmod>2022-10-11T22:13:07+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -130,6 +117,22 @@
                 hreflang="en"
                 href="https://fromzerotoonee.github.io/en/tags/"
                 />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/categories/very-easy/</loc>
+    <lastmod>2022-10-11T22:13:07+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/categories/very-easy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/categories/very-easy/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/posts/meow/</loc>
+    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/telnet/</loc>
     <lastmod>2022-10-10T00:26:33+05:30</lastmod>
@@ -181,6 +184,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fromzerotoonee.github.io/en/tags/cve-id-2015-6967/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/categories/easy/</loc>
+    <lastmod>2022-06-24T17:56:18+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/categories/easy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/categories/easy/"
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/file-upload-vulnarability/</loc>
@@ -236,6 +252,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fromzerotoonee.github.io/en/series/pratical-ethical-hacking-tcm/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/categories/public-exploit/</loc>
+    <lastmod>2022-06-24T17:56:18+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/categories/public-exploit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/categories/public-exploit/"
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/remote-code-execution/</loc>

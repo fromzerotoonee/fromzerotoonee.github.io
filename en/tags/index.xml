@@ -14,11 +14,29 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 10 Oct 2022 00:26:33 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 11 Oct 2022 22:13:07 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>FTP</title>
+        <link>https://fromzerotoonee.github.io/en/tags/ftp/</link>
+        <pubDate>Tue, 11 Oct 2022 22:13:07 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/en/tags/ftp/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Telnet</title>
