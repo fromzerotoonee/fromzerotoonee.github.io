@@ -14,11 +14,29 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 02:41:09 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 12 Oct 2022 10:23:58 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>RDP</title>
+        <link>https://fromzerotoonee.github.io/ko/tags/rdp/</link>
+        <pubDate>Wed, 12 Oct 2022 10:23:58 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/ko/tags/rdp/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Redis</title>

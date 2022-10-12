@@ -9,7 +9,7 @@
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/</loc>
-    <lastmod>2022-10-12T02:41:09+05:30</lastmod>
+    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -22,7 +22,7 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/</loc>
-    <lastmod>2022-10-12T02:41:09+05:30</lastmod>
+    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -34,11 +34,11 @@
                 href="https://fromzerotoonee.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/posts/redeemer/</loc>
-    <lastmod>2022-10-12T02:41:09+05:30</lastmod>
+    <loc>https://fromzerotoonee.github.io/en/explosion/</loc>
+    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/hackthebox/</loc>
-    <lastmod>2022-10-12T02:41:09+05:30</lastmod>
+    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -51,7 +51,7 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/linux/</loc>
-    <lastmod>2022-10-12T02:41:09+05:30</lastmod>
+    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -62,6 +62,74 @@
                 hreflang="en"
                 href="https://fromzerotoonee.github.io/en/categories/linux/"
                 />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/tags/rdp/</loc>
+    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/tags/rdp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/tags/rdp/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/series/</loc>
+    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/series/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/series/starting-point-tire-0/</loc>
+    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/series/starting-point-tire-0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/series/starting-point-tire-0/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/tags/</loc>
+    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/categories/very-easy/</loc>
+    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/categories/very-easy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/categories/very-easy/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/posts/redeemer/</loc>
+    <lastmod>2022-10-12T02:41:09+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/</loc>
     <lastmod>2022-10-12T02:41:09+05:30</lastmod>
@@ -77,58 +145,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fromzerotoonee.github.io/en/tags/redis/"
-                />
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/series/</loc>
-    <lastmod>2022-10-12T02:41:09+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fromzerotoonee.github.io/en/series/"
-                />
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/series/starting-point-tire-0/</loc>
-    <lastmod>2022-10-12T02:41:09+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/series/starting-point-tire-0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fromzerotoonee.github.io/en/series/starting-point-tire-0/"
-                />
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/tags/</loc>
-    <lastmod>2022-10-12T02:41:09+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fromzerotoonee.github.io/en/tags/"
-                />
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/categories/very-easy/</loc>
-    <lastmod>2022-10-12T02:41:09+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/categories/very-easy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fromzerotoonee.github.io/en/categories/very-easy/"
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/dancing/</loc>

@@ -1742,7 +1742,7 @@
 <div class="single__infos">
   <time class="single__info" title="Written At">📅&nbsp;Oct 10, 2022 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;3&nbsp;min read </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;4&nbsp;min read </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="WRITTEN BY">✍️&nbsp;Atom</span>
   
@@ -1866,7 +1866,10 @@
 </span></span><span class="line"><span class="cl">atom@atom-VirtualBox:~/htb/meow
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>Lets we try to connect Telnet port 23 using some well-known default usernames and password like ubuntu, administrator,user,root &hellip;</p>
+</div><p>Telnet is considered insecure due to lacking the ability to encrypt the data being sent through it securely. This implies that an attacker with access to a network TAP (Traffic Access Point) could easily intercept the packets being sent through a Telnet connection and read the contents, be they login credentials, sensitive files, or anything else. Telnet, which runs on port 23 TCP by default, has mainly been replaced by its more secure counterpart, SSH , running on port 22 TCP by default.</p>
+<p>SSH, which stands for Secure Shell Protocol, adds the required layers of authentication and encryption to the communication model, making it a much more viable approach to perform remote access and remote file transfers. It is used both for patch delivery, file transfers, log transfer, and remote management in today&rsquo;s environment.</p>
+<p>SSH uses public-key cryptography to verify the remote host&rsquo;s identity, and the communication model is based on the <code>Client-Server architecture</code> , as seen previously with FTP, SMB, and other services. The local host uses the server&rsquo;s public key to verify its identity before establishing the encrypted tunnel connection. Once the tunnel is established, symmetric encryption methods and hashing algorithms are used to ensure the confidentiality and integrity of the data being sent over the tunnel.</p>
+<p>Lets we try to connect Telnet port 23 using some well-known default usernames and password like ubuntu, administrator,user,root &hellip;</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
