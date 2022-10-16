@@ -31,7 +31,7 @@
 Info Table   Room Name Redeemer    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 6379 ware open. while tryed to connect without using any password.</description>
         
         <dc:creator>Atom</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/redeemer/redeemer1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/redeemer/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

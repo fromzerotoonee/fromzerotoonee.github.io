@@ -14,11 +14,105 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 10:23:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 12 Oct 2022 13:05:37 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/ko/categories/hackthebox/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Hack The Box - Mongod</title>
+        <link>https://fromzerotoonee.github.io/ko/en/mongod/</link>
+        <pubDate>Wed, 12 Oct 2022 13:05:37 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        <atom:modified>Wed, 12 Oct 2022 13:05:37 +0530</atom:modified>
+        <guid>https://fromzerotoonee.github.io/ko/en/mongod/</guid>
+        <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Mongod Machine.
+Info Table   Room Name Mongod    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 27017 ware open. which is mongodb service, connected as a anonymous user.</description>
+        
+        <dc:creator>Atom</dc:creator>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/mongod/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>MongoDB</category>
+            
+          
+        
+        
+          
+            
+              <category>Very Easy</category>
+            
+          
+            
+              <category>HackTheBox</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Starting Point Tire 0</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Preiginition</title>
+        <link>https://fromzerotoonee.github.io/ko/en/preiginition/</link>
+        <pubDate>Wed, 12 Oct 2022 13:05:03 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        <atom:modified>Wed, 12 Oct 2022 13:05:03 +0530</atom:modified>
+        <guid>https://fromzerotoonee.github.io/ko/en/preiginition/</guid>
+        <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Preiginition Machine.
+Info Table   Room Name Preiginition    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 80 ware open. fuzzed directory and found hidden page also bypassed using default credentials.</description>
+        
+        <dc:creator>Atom</dc:creator>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/preiginition/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>HTTP</category>
+            
+          
+            
+              <category>Defult Credentials</category>
+            
+          
+        
+        
+          
+            
+              <category>Very Easy</category>
+            
+          
+            
+              <category>HackTheBox</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Starting Point Tire 0</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Hack The Box - Explosion</title>
@@ -31,7 +125,7 @@
 Info Table   Room Name Explosion    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 3389 ware open. while trying to connect with default or well known usernames.</description>
         
         <dc:creator>Atom</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/explosion/explosion1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/explosion/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -76,7 +170,7 @@ Info Table   Room Name Explosion    Category Hack The Box   OS Linux    Difficul
 Info Table   Room Name Redeemer    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 6379 ware open. while tryed to connect without using any password.</description>
         
         <dc:creator>Atom</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/redeemer/redeemer1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/redeemer/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -121,7 +215,7 @@ Info Table   Room Name Redeemer    Category Hack The Box   OS Linux    Difficult
 Info Table   Room Name Dancing    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 445 ware open. while trying to connect with empty password.</description>
         
         <dc:creator>Atom</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/dancing/dancing1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/dancing/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -166,7 +260,7 @@ Info Table   Room Name Dancing    Category Hack The Box   OS Linux    Difficulty
 Info Table   Room Name Fawn    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 21 ware open. while trying to connect with default password of anonymous user FTP ware get logged.</description>
         
         <dc:creator>Atom</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/fawn/fawn1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/fawn/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -211,7 +305,7 @@ Info Table   Room Name Fawn    Category Hack The Box   OS Linux    Difficulty Ve
 Info Table   Room Name Meow    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 23 ware open. while trying to connect with default or well known usernames.</description>
         
         <dc:creator>Atom</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/meow/Meow1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/meow/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

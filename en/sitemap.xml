@@ -9,7 +9,7 @@
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/</loc>
-    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <lastmod>2022-10-12T13:05:37+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -22,7 +22,7 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/</loc>
-    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <lastmod>2022-10-12T13:05:37+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -34,11 +34,11 @@
                 href="https://fromzerotoonee.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/explosion/</loc>
-    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <loc>https://fromzerotoonee.github.io/en/mongod/</loc>
+    <lastmod>2022-10-12T13:05:37+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/hackthebox/</loc>
-    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <lastmod>2022-10-12T13:05:37+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -51,7 +51,7 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/linux/</loc>
-    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <lastmod>2022-10-12T13:05:37+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -63,21 +63,21 @@
                 href="https://fromzerotoonee.github.io/en/categories/linux/"
                 />
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/tags/rdp/</loc>
-    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <loc>https://fromzerotoonee.github.io/en/tags/mongodb/</loc>
+    <lastmod>2022-10-12T13:05:37+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/tags/rdp/"
+                href="https://fromzerotoonee.github.io/ko/tags/mongodb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fromzerotoonee.github.io/en/tags/rdp/"
+                href="https://fromzerotoonee.github.io/en/tags/mongodb/"
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/series/</loc>
-    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <lastmod>2022-10-12T13:05:37+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -90,7 +90,7 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/series/starting-point-tire-0/</loc>
-    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <lastmod>2022-10-12T13:05:37+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -103,7 +103,7 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/</loc>
-    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <lastmod>2022-10-12T13:05:37+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -116,7 +116,7 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/very-easy/</loc>
-    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <lastmod>2022-10-12T13:05:37+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -126,6 +126,51 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fromzerotoonee.github.io/en/categories/very-easy/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/tags/defult-credentials/</loc>
+    <lastmod>2022-10-12T13:05:03+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/tags/defult-credentials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/tags/defult-credentials/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/preiginition/</loc>
+    <lastmod>2022-10-12T13:05:03+05:30</lastmod>
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/tags/http/</loc>
+    <lastmod>2022-10-12T13:05:03+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/tags/http/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/tags/http/"
+                />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/explosion/</loc>
+    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/tags/rdp/</loc>
+    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fromzerotoonee.github.io/ko/tags/rdp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fromzerotoonee.github.io/en/tags/rdp/"
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/redeemer/</loc>
