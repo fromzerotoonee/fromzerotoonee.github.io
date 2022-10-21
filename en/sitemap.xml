@@ -34,7 +34,7 @@
                 href="https://fromzerotoonee.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/appointment/</loc>
+    <loc>https://fromzerotoonee.github.io/en/posts/appointment/</loc>
     <lastmod>2022-10-17T23:55:02+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/hackthebox/</loc>
@@ -62,6 +62,9 @@
                 hreflang="en"
                 href="https://fromzerotoonee.github.io/en/categories/linux/"
                 />
+  </url><url>
+    <loc>https://fromzerotoonee.github.io/en/posts/</loc>
+    <lastmod>2022-10-17T23:55:02+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/series/</loc>
     <lastmod>2022-10-17T23:55:02+05:30</lastmod>
@@ -128,7 +131,7 @@
                 href="https://fromzerotoonee.github.io/en/categories/very-easy/"
                 />
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/mongod/</loc>
+    <loc>https://fromzerotoonee.github.io/en/posts/mongod/</loc>
     <lastmod>2022-10-16T13:05:37+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/mongodb/</loc>
@@ -170,7 +173,7 @@
                 href="https://fromzerotoonee.github.io/en/tags/defult-credentials/"
                 />
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/preiginition/</loc>
+    <loc>https://fromzerotoonee.github.io/en/posts/preiginition/</loc>
     <lastmod>2022-10-16T13:05:03+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/http/</loc>
@@ -186,7 +189,7 @@
                 href="https://fromzerotoonee.github.io/en/tags/http/"
                 />
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/explosion/</loc>
+    <loc>https://fromzerotoonee.github.io/en/posts/explosion/</loc>
     <lastmod>2022-10-12T10:23:58+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/rdp/</loc>
@@ -203,9 +206,6 @@
                 />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/redeemer/</loc>
-    <lastmod>2022-10-12T02:41:09+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/posts/</loc>
     <lastmod>2022-10-12T02:41:09+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/redis/</loc>

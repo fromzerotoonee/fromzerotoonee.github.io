@@ -22,11 +22,11 @@
       
       <item>
         <title>Hack The Box - Appointment</title>
-        <link>https://fromzerotoonee.github.io/ko/en/appointment/</link>
+        <link>https://fromzerotoonee.github.io/ko/en/posts/appointment/</link>
         <pubDate>Mon, 17 Oct 2022 23:55:02 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         <atom:modified>Mon, 17 Oct 2022 23:55:02 +0530</atom:modified>
-        <guid>https://fromzerotoonee.github.io/ko/en/appointment/</guid>
+        <guid>https://fromzerotoonee.github.io/ko/en/posts/appointment/</guid>
         <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Appointment Machine
 Recon lets start with Basic Recon
 1 2 3 4 5 6 7 8 9 10 11 12  atom@atom-VirtualBox:~$ nmap -sC -sV 10.129.152.162 Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-17 16:15 IST Nmap scan report for 10.129.152.162 Host is up (0.19s latency). Not shown: 999 closed ports PORT STATE SERVICE VERSION 80/tcp open http Apache httpd 2.</description>

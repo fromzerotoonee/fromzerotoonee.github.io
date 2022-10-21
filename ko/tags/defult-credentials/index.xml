@@ -22,11 +22,11 @@
       
       <item>
         <title>Hack The Box - Preiginition</title>
-        <link>https://fromzerotoonee.github.io/ko/en/preiginition/</link>
+        <link>https://fromzerotoonee.github.io/ko/en/posts/preiginition/</link>
         <pubDate>Sun, 16 Oct 2022 13:05:03 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         <atom:modified>Sun, 16 Oct 2022 13:05:03 +0530</atom:modified>
-        <guid>https://fromzerotoonee.github.io/ko/en/preiginition/</guid>
+        <guid>https://fromzerotoonee.github.io/ko/en/posts/preiginition/</guid>
         <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Preiginition Machine.
 Info Table   Room Name Preiginition    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 80 ware open. fuzzed directory and found hidden page also bypassed using default credentials.</description>
         
