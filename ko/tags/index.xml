@@ -14,16 +14,34 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 13:05:37 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2022 23:55:02 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>SQL</title>
+        <link>https://fromzerotoonee.github.io/ko/tags/sql/</link>
+        <pubDate>Mon, 17 Oct 2022 23:55:02 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        
+        <guid>https://fromzerotoonee.github.io/ko/tags/sql/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>MongoDB</title>
         <link>https://fromzerotoonee.github.io/ko/tags/mongodb/</link>
-        <pubDate>Wed, 12 Oct 2022 13:05:37 +0530</pubDate>
+        <pubDate>Sun, 16 Oct 2022 13:05:37 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>https://fromzerotoonee.github.io/ko/tags/mongodb/</guid>
@@ -41,7 +59,7 @@
       <item>
         <title>Defult Credentials</title>
         <link>https://fromzerotoonee.github.io/ko/tags/defult-credentials/</link>
-        <pubDate>Wed, 12 Oct 2022 13:05:03 +0530</pubDate>
+        <pubDate>Sun, 16 Oct 2022 13:05:03 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>https://fromzerotoonee.github.io/ko/tags/defult-credentials/</guid>
@@ -59,7 +77,7 @@
       <item>
         <title>HTTP</title>
         <link>https://fromzerotoonee.github.io/ko/tags/http/</link>
-        <pubDate>Wed, 12 Oct 2022 13:05:03 +0530</pubDate>
+        <pubDate>Sun, 16 Oct 2022 13:05:03 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         
         <guid>https://fromzerotoonee.github.io/ko/tags/http/</guid>

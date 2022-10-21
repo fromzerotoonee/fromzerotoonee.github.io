@@ -14,7 +14,7 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 13:05:37 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 13:05:37 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/ko/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,9 +23,9 @@
       <item>
         <title>Hack The Box - Mongod</title>
         <link>https://fromzerotoonee.github.io/ko/en/mongod/</link>
-        <pubDate>Wed, 12 Oct 2022 13:05:37 +0530</pubDate>
+        <pubDate>Sun, 16 Oct 2022 13:05:37 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        <atom:modified>Wed, 12 Oct 2022 13:05:37 +0530</atom:modified>
+        <atom:modified>Sun, 16 Oct 2022 13:05:37 +0530</atom:modified>
         <guid>https://fromzerotoonee.github.io/ko/en/mongod/</guid>
         <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Mongod Machine.
 Info Table   Room Name Mongod    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 27017 ware open. which is mongodb service, connected as a anonymous user.</description>
