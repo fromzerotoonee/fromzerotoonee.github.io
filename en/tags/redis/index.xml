@@ -22,51 +22,6 @@
       
       <item>
         <title>Hack The Box - Redeemer</title>
-        <link>https://fromzerotoonee.github.io/en/en/posts/redeemer/</link>
-        <pubDate>Wed, 12 Oct 2022 02:41:09 +0530</pubDate>
-        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        <atom:modified>Wed, 12 Oct 2022 02:41:09 +0530</atom:modified>
-        <guid>https://fromzerotoonee.github.io/en/en/posts/redeemer/</guid>
-        <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Redeemer Machine.
-Info Table Room Name Redeemer Category Hack The Box OS Linux Difficulty Very Easy Maker Hack The Box Kill Chain Summery While enumerating ports and services we can able to find the port 6379 ware open. while tryed to connect without using any password. we got connected to Redis and get downloaded sensitive files.</description>
-        
-        <dc:creator>Atom</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/redeemer/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Redis</category>
-            
-          
-        
-        
-          
-            
-              <category>Very Easy</category>
-            
-          
-            
-              <category>HackTheBox</category>
-            
-          
-            
-              <category>Linux</category>
-            
-          
-        
-        
-          
-            
-              <category>Starting Point Tire 0</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Hack The Box - Redeemer</title>
         <link>https://fromzerotoonee.github.io/en/posts/redeemer/</link>
         <pubDate>Wed, 12 Oct 2022 02:41:09 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>

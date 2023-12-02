@@ -2,13 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fromzerotoonee.github.io/en/en/showcase/hugo/hugo-theme-zzo/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/showcase/hugo/hugo-theme-zzo/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/showcase/hugo/hugo-theme-zdoc/</loc>
@@ -16,50 +10,18 @@
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/</loc>
     <lastmod>2023-12-02T09:45:35+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fromzerotoonee.github.io/en/"
-                />
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/</loc>
-    <lastmod>2023-12-02T09:45:35+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/</loc>
-    <lastmod>2023-12-02T09:45:35+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/</loc>
     <lastmod>2023-12-02T09:45:35+05:30</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/sequel/</loc>
-    <lastmod>2023-12-02T09:45:35+05:30</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/sequel/</loc>
     <lastmod>2023-12-02T09:45:35+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/repettest/</loc>
-    <lastmod>2023-12-02T09:09:12+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/repettest/</loc>
     <lastmod>2023-12-02T09:09:12+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/</loc>
     <lastmod>2023-12-02T00:03:25+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fromzerotoonee.github.io/en/categories/"
-                />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/cve-exploitation/</loc>
     <lastmod>2023-12-02T00:03:25+05:30</lastmod>
@@ -68,9 +30,6 @@
     <lastmod>2023-12-02T00:03:25+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/easy/</loc>
-    <lastmod>2023-12-02T00:03:25+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/archetype/</loc>
     <lastmod>2023-12-02T00:03:25+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/archetype/</loc>
@@ -87,38 +46,15 @@
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/series/</loc>
     <lastmod>2023-12-02T00:03:25+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fromzerotoonee.github.io/en/series/"
-                />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/smb/</loc>
     <lastmod>2023-12-02T00:03:25+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/</loc>
     <lastmod>2023-12-02T00:03:25+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fromzerotoonee.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fromzerotoonee.github.io/en/tags/"
-                />
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/windows/</loc>
     <lastmod>2023-12-02T00:03:25+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/appointment/</loc>
-    <lastmod>2022-10-17T23:55:02+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/appointment/</loc>
     <lastmod>2022-10-17T23:55:02+05:30</lastmod>
@@ -135,9 +71,6 @@
     <loc>https://fromzerotoonee.github.io/en/categories/very-easy/</loc>
     <lastmod>2022-10-17T23:55:02+05:30</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/mongod/</loc>
-    <lastmod>2022-10-16T13:05:37+05:30</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/mongod/</loc>
     <lastmod>2022-10-16T13:05:37+05:30</lastmod>
   </url><url>
@@ -150,17 +83,11 @@
     <loc>https://fromzerotoonee.github.io/en/tags/defult-credentials/</loc>
     <lastmod>2022-10-16T13:05:03+05:30</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/preiginition/</loc>
-    <lastmod>2022-10-16T13:05:03+05:30</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/preiginition/</loc>
     <lastmod>2022-10-16T13:05:03+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/http/</loc>
     <lastmod>2022-10-16T13:05:03+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/explosion/</loc>
-    <lastmod>2022-10-12T10:23:58+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/explosion/</loc>
     <lastmod>2022-10-12T10:23:58+05:30</lastmod>
@@ -168,17 +95,11 @@
     <loc>https://fromzerotoonee.github.io/en/tags/rdp/</loc>
     <lastmod>2022-10-12T10:23:58+05:30</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/redeemer/</loc>
-    <lastmod>2022-10-12T02:41:09+05:30</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/redeemer/</loc>
     <lastmod>2022-10-12T02:41:09+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/redis/</loc>
     <lastmod>2022-10-12T02:41:09+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/dancing/</loc>
-    <lastmod>2022-10-12T00:38:05+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/dancing/</loc>
     <lastmod>2022-10-12T00:38:05+05:30</lastmod>
@@ -189,14 +110,8 @@
     <loc>https://fromzerotoonee.github.io/en/tags/ftp/</loc>
     <lastmod>2022-10-11T22:13:07+05:30</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/fawn/</loc>
-    <lastmod>2022-10-11T22:13:07+05:30</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/fawn/</loc>
     <lastmod>2022-10-11T22:13:07+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/meow/</loc>
-    <lastmod>2022-10-10T00:26:33+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/meow/</loc>
     <lastmod>2022-10-10T00:26:33+05:30</lastmod>
@@ -211,9 +126,6 @@
     <lastmod>2022-06-24T17:56:18+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/file-upload-vulnarability/</loc>
-    <lastmod>2022-06-24T17:56:18+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/nibbbles/</loc>
     <lastmod>2022-06-24T17:56:18+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/nibbbles/</loc>
@@ -240,9 +152,6 @@
     <loc>https://fromzerotoonee.github.io/en/tags/cve-id-2011-1249/</loc>
     <lastmod>2022-06-16T09:48:08+05:30</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/devel/</loc>
-    <lastmod>2022-06-16T09:48:08+05:30</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/devel/</loc>
     <lastmod>2022-06-16T09:48:08+05:30</lastmod>
   </url><url>
@@ -258,9 +167,6 @@
     <loc>https://fromzerotoonee.github.io/en/tags/default-credentials/</loc>
     <lastmod>2022-06-09T10:38:09+05:30</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/jerry/</loc>
-    <lastmod>2022-06-09T10:38:09+05:30</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/jerry/</loc>
     <lastmod>2022-06-09T10:38:09+05:30</lastmod>
   </url><url>
@@ -273,9 +179,6 @@
     <loc>https://fromzerotoonee.github.io/en/tags/tomcat/</loc>
     <lastmod>2022-06-09T10:38:09+05:30</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/blue/</loc>
-    <lastmod>2022-06-08T12:27:49+05:30</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/blue/</loc>
     <lastmod>2022-06-08T12:27:49+05:30</lastmod>
   </url><url>
@@ -285,9 +188,6 @@
     <loc>https://fromzerotoonee.github.io/en/tags/cve-id-2007-2447/</loc>
     <lastmod>2022-06-07T17:29:31+05:30</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/lame/</loc>
-    <lastmod>2022-06-07T17:29:31+05:30</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/lame/</loc>
     <lastmod>2022-06-07T17:29:31+05:30</lastmod>
   </url><url>
@@ -295,9 +195,6 @@
     <lastmod>2022-06-07T17:29:31+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/cve-id-2008-4250/</loc>
-    <lastmod>2022-06-02T17:01:34+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/legacy/</loc>
     <lastmod>2022-06-02T17:01:34+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/legacy/</loc>
@@ -321,9 +218,6 @@
     <loc>https://fromzerotoonee.github.io/en/categories/vulnhub/</loc>
     <lastmod>2022-05-31T12:23:44+05:30</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/vulnhub-kioptrix-level-1/</loc>
-    <lastmod>2022-05-31T12:23:44+05:30</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/vulnhub-kioptrix-level-1/</loc>
     <lastmod>2022-05-31T12:23:44+05:30</lastmod>
   </url><url>
@@ -334,9 +228,6 @@
     <lastmod>2022-05-25T09:31:38+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/series/cloud-pentest-aws/</loc>
-    <lastmod>2022-05-25T09:31:38+05:30</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/flawscloud/</loc>
     <lastmod>2022-05-25T09:31:38+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/flawscloud/</loc>
@@ -357,28 +248,16 @@
     <loc>https://fromzerotoonee.github.io/en/series/try-hack-me-offensive-security/</loc>
     <lastmod>2022-05-08T17:50:58+05:30</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/vulnversity/</loc>
-    <lastmod>2022-05-08T17:50:58+05:30</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/vulnversity/</loc>
     <lastmod>2022-05-08T17:50:58+05:30</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/tryhackme/</loc>
     <lastmod>2022-05-08T17:50:58+05:30</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/publication/article/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/publication/book/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/publication/book/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/publication/misc/</loc>
@@ -390,20 +269,11 @@
     <loc>https://fromzerotoonee.github.io/en/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/shortcodes/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/showcase/hugo/</loc>
-    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/showcase/</loc>
-    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
@@ -415,9 +285,6 @@
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/markdown/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/markdown-syntax/</loc>
@@ -438,9 +305,6 @@
     <loc>https://fromzerotoonee.github.io/en/tags/privacy/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/rich-content/</loc>
-    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/rich-content/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url><url>
@@ -453,14 +317,8 @@
     <loc>https://fromzerotoonee.github.io/en/categories/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/syntax-highlight/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/math-typesetting/</loc>
-    <lastmod>2019-12-17T12:00:06+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/math-typesetting/</loc>
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
@@ -472,9 +330,6 @@
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/tags/emoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/emoji-support/</loc>
@@ -489,25 +344,13 @@
     <loc>https://fromzerotoonee.github.io/en/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/test-viz/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/test-viz/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/test-wavedrom/</loc>
-    <lastmod>2019-11-18T18:00:06+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/test-wavedrom/</loc>
     <lastmod>2019-11-18T18:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/test-chartjs/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/test-chartjs/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/test-js-sequence-diagrams/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/test-js-sequence-diagrams/</loc>
@@ -516,35 +359,20 @@
     <loc>https://fromzerotoonee.github.io/en/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/test-mermaid/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/test-mermaid/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/test-mathjax/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/test-mathjax/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/test-katex/</loc>
-    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/test-katex/</loc>
     <lastmod>2019-11-15T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/posts/test-flowchart/</loc>
-    <lastmod>2019-11-14T12:00:06+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/posts/test-flowchart/</loc>
     <lastmod>2019-11-14T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/gallery/cartoon/</loc>
-    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
@@ -552,38 +380,20 @@
     <loc>https://fromzerotoonee.github.io/en/gallery/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/gallery/photo/</loc>
-    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/presentation/dir/fourth/</loc>
-    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/presentation/dir/fourth/</loc>
-    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/presentation/third/</loc>
-    <lastmod>2019-10-30T20:46:30+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/presentation/second/</loc>
-    <lastmod>2019-10-30T20:45:24+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/presentation/first/</loc>
-    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
@@ -591,29 +401,14 @@
     <loc>https://fromzerotoonee.github.io/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/publication/article/article_any_folder_name_1/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/publication/book/book_any_folder_name_1/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fromzerotoonee.github.io/en/publication/book/book_any_folder_name_1/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fromzerotoonee.github.io/en/en/publication/misc/misc_any_folder_name_1/</loc>
-    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fromzerotoonee.github.io/en/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>

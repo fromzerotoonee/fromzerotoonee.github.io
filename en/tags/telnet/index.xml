@@ -22,51 +22,6 @@
       
       <item>
         <title>Hack The Box - Meow</title>
-        <link>https://fromzerotoonee.github.io/en/en/posts/meow/</link>
-        <pubDate>Mon, 10 Oct 2022 00:26:33 +0530</pubDate>
-        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        <atom:modified>Mon, 10 Oct 2022 00:26:33 +0530</atom:modified>
-        <guid>https://fromzerotoonee.github.io/en/en/posts/meow/</guid>
-        <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Meow Machine.
-Info Table Room Name Meow Category Hack The Box OS Linux Difficulty Very Easy Maker Hack The Box Kill Chain Summery While enumerating ports and services we can able to find the port 23 ware open. while trying to connect with default or well known usernames. Telnet ware get logged in without using password.</description>
-        
-        <dc:creator>Atom</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/meow/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Telnet</category>
-            
-          
-        
-        
-          
-            
-              <category>Very Easy</category>
-            
-          
-            
-              <category>HackTheBox</category>
-            
-          
-            
-              <category>Linux</category>
-            
-          
-        
-        
-          
-            
-              <category>Starting Point Tire 0</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Hack The Box - Meow</title>
         <link>https://fromzerotoonee.github.io/en/posts/meow/</link>
         <pubDate>Mon, 10 Oct 2022 00:26:33 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
