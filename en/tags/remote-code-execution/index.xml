@@ -22,13 +22,90 @@
       
       <item>
         <title>Hack The Box - Nibbbles</title>
+        <link>https://fromzerotoonee.github.io/en/en/posts/nibbbles/</link>
+        <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        <atom:modified>Fri, 24 Jun 2022 17:56:18 +0530</atom:modified>
+        <guid>https://fromzerotoonee.github.io/en/en/posts/nibbbles/</guid>
+        <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Nibbles Machine.
+Info Table Title Nibbles Category Hack The Box OS Linux Difficulty Easy Maker Kill Chain Summery While enumerating ports and services we can able to find the port 22,80 ware open. web service running on port 80, while digging into deep username and version of the theme found. guessed password, using file upload vulnerability we got initial foothold, escalated priviledge using sudo vulnerability.</description>
+        
+        <dc:creator>Atom</dc:creator>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/nibbles/Nibbles1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>File upload Vulnarability</category>
+            
+          
+            
+              <category>Remote Code Execution</category>
+            
+          
+            
+              <category>Nibbleblog</category>
+            
+          
+            
+              <category>CVE-ID-2015-6967</category>
+            
+          
+            
+              <category>A06:2021-Vulnerable And Outdated Components</category>
+            
+          
+            
+              <category>Sudo Exploitation</category>
+            
+          
+        
+        
+          
+            
+              <category>Easy</category>
+            
+          
+            
+              <category>HackTheBox</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Metasploit</category>
+            
+          
+            
+              <category>Public Exploit</category>
+            
+          
+            
+              <category>CVE Exploitation</category>
+            
+          
+        
+        
+          
+            
+              <category>Pratical Ethical Hacking TCM</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Nibbbles</title>
         <link>https://fromzerotoonee.github.io/en/posts/nibbbles/</link>
         <pubDate>Fri, 24 Jun 2022 17:56:18 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         <atom:modified>Fri, 24 Jun 2022 17:56:18 +0530</atom:modified>
         <guid>https://fromzerotoonee.github.io/en/posts/nibbbles/</guid>
         <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Nibbles Machine.
- Info Table   Title Nibbles    Category Hack The Box   OS Linux    Difficulty Easy   Maker       Kill Chain Summery While enumerating ports and services we can able to find the port 22,80 ware open. web service running on port 80, while digging into deep username and version of the theme found.</description>
+Info Table Title Nibbles Category Hack The Box OS Linux Difficulty Easy Maker Kill Chain Summery While enumerating ports and services we can able to find the port 22,80 ware open. web service running on port 80, while digging into deep username and version of the theme found. guessed password, using file upload vulnerability we got initial foothold, escalated priviledge using sudo vulnerability.</description>
         
         <dc:creator>Atom</dc:creator>
         <media:content url="https://fromzerotoonee.github.io//images/hackthebox/nibbles/Nibbles1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -99,13 +176,92 @@
       
       <item>
         <title>Hack The Box - Devel</title>
+        <link>https://fromzerotoonee.github.io/en/en/posts/devel/</link>
+        <pubDate>Thu, 16 Jun 2022 09:48:08 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        <atom:modified>Thu, 16 Jun 2022 09:48:08 +0530</atom:modified>
+        <guid>https://fromzerotoonee.github.io/en/en/posts/devel/</guid>
+        <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Devel Machine.
+Info Table Title Devel Category Hack The Box OS Windows Difficulty Easy Maker Kill Chain Summery While enumerating ports and services we can able to find the service, which is vulnerable MS11-046 which can be easily exploited via publicly available scripts and Metasploit.
+Mind Map Recon Let’s scan target machine is any ports are open</description>
+        
+        <dc:creator>Atom</dc:creator>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/devel/Devel.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Unrestricted File Upload</category>
+            
+          
+            
+              <category>IIS</category>
+            
+          
+            
+              <category>ASP</category>
+            
+          
+            
+              <category>Remote Code Execution</category>
+            
+          
+            
+              <category>CVE-ID-2011-1249</category>
+            
+          
+            
+              <category>AFD</category>
+            
+          
+            
+              <category>MS11-046</category>
+            
+          
+        
+        
+          
+            
+              <category>Easy</category>
+            
+          
+            
+              <category>HackTheBox</category>
+            
+          
+            
+              <category>Windows</category>
+            
+          
+            
+              <category>Metasploit</category>
+            
+          
+            
+              <category>Public Exploit</category>
+            
+          
+        
+        
+          
+            
+              <category>Pratical Ethical Hacking TCM</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Devel</title>
         <link>https://fromzerotoonee.github.io/en/posts/devel/</link>
         <pubDate>Thu, 16 Jun 2022 09:48:08 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         <atom:modified>Thu, 16 Jun 2022 09:48:08 +0530</atom:modified>
         <guid>https://fromzerotoonee.github.io/en/posts/devel/</guid>
         <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Devel Machine.
- Info Table   Title Devel    Category Hack The Box   OS Windows    Difficulty Easy   Maker       Kill Chain Summery While enumerating ports and services we can able to find the service, which is vulnerable MS11-046 which can be easily exploited via publicly available scripts and Metasploit.</description>
+Info Table Title Devel Category Hack The Box OS Windows Difficulty Easy Maker Kill Chain Summery While enumerating ports and services we can able to find the service, which is vulnerable MS11-046 which can be easily exploited via publicly available scripts and Metasploit.
+Mind Map Recon Let’s scan target machine is any ports are open</description>
         
         <dc:creator>Atom</dc:creator>
         <media:content url="https://fromzerotoonee.github.io//images/hackthebox/devel/Devel.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -176,13 +332,84 @@
       
       <item>
         <title>Hack The Box - Jerry</title>
+        <link>https://fromzerotoonee.github.io/en/en/posts/jerry/</link>
+        <pubDate>Thu, 09 Jun 2022 10:38:09 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        <atom:modified>Thu, 09 Jun 2022 10:38:09 +0530</atom:modified>
+        <guid>https://fromzerotoonee.github.io/en/en/posts/jerry/</guid>
+        <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Blue Machine.
+Info Table Title jerry Category Hack The Box OS Windows Difficulty Easy Maker Kill Chain Summery While enumerating ports and services we can able to find the service, which is vulnerable OWASP-A07:2021 which can be easily exploited via publicly available scripts and Metasploit.
+Mind Map Recon Let’s scan target machine is any ports are open</description>
+        
+        <dc:creator>Atom</dc:creator>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/jerry/Jerry.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Tomcat</category>
+            
+          
+            
+              <category>OWASP-A07:2021</category>
+            
+          
+            
+              <category>Malicious WAR File Upload</category>
+            
+          
+            
+              <category>Default Credentials</category>
+            
+          
+            
+              <category>Remote Code Execution</category>
+            
+          
+        
+        
+          
+            
+              <category>Easy</category>
+            
+          
+            
+              <category>HackTheBox</category>
+            
+          
+            
+              <category>Windows</category>
+            
+          
+            
+              <category>Metasploit</category>
+            
+          
+            
+              <category>Public Exploit</category>
+            
+          
+        
+        
+          
+            
+              <category>Pratical Ethical Hacking TCM</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Jerry</title>
         <link>https://fromzerotoonee.github.io/en/posts/jerry/</link>
         <pubDate>Thu, 09 Jun 2022 10:38:09 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         <atom:modified>Thu, 09 Jun 2022 10:38:09 +0530</atom:modified>
         <guid>https://fromzerotoonee.github.io/en/posts/jerry/</guid>
         <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Blue Machine.
- Info Table   Title jerry    Category Hack The Box   OS Windows    Difficulty Easy   Maker       Kill Chain Summery While enumerating ports and services we can able to find the service, which is vulnerable OWASP-A07:2021 which can be easily exploited via publicly available scripts and Metasploit.</description>
+Info Table Title jerry Category Hack The Box OS Windows Difficulty Easy Maker Kill Chain Summery While enumerating ports and services we can able to find the service, which is vulnerable OWASP-A07:2021 which can be easily exploited via publicly available scripts and Metasploit.
+Mind Map Recon Let’s scan target machine is any ports are open</description>
         
         <dc:creator>Atom</dc:creator>
         <media:content url="https://fromzerotoonee.github.io//images/hackthebox/jerry/Jerry.png" medium="image"><media:title type="html">featured image</media:title></media:content>

@@ -22,13 +22,60 @@
       
       <item>
         <title>Hack The Box - Fawn</title>
+        <link>https://fromzerotoonee.github.io/en/en/posts/fawn/</link>
+        <pubDate>Tue, 11 Oct 2022 22:13:07 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        <atom:modified>Tue, 11 Oct 2022 22:13:07 +0530</atom:modified>
+        <guid>https://fromzerotoonee.github.io/en/en/posts/fawn/</guid>
+        <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Fawn Machine.
+Info Table Room Name Fawn Category Hack The Box OS Linux Difficulty Very Easy Maker Hack The Box Kill Chain Summery While enumerating ports and services we can able to find the port 21 ware open. while trying to connect with default password of anonymous user FTP ware get logged.
+Recon lets start with initial default scan (-sC)</description>
+        
+        <dc:creator>Atom</dc:creator>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/fawn/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>FTP</category>
+            
+          
+        
+        
+          
+            
+              <category>Very Easy</category>
+            
+          
+            
+              <category>HackTheBox</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Starting Point Tire 0</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hack The Box - Fawn</title>
         <link>https://fromzerotoonee.github.io/en/posts/fawn/</link>
         <pubDate>Tue, 11 Oct 2022 22:13:07 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         <atom:modified>Tue, 11 Oct 2022 22:13:07 +0530</atom:modified>
         <guid>https://fromzerotoonee.github.io/en/posts/fawn/</guid>
         <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Fawn Machine.
-Info Table   Room Name Fawn    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 21 ware open. while trying to connect with default password of anonymous user FTP ware get logged.</description>
+Info Table Room Name Fawn Category Hack The Box OS Linux Difficulty Very Easy Maker Hack The Box Kill Chain Summery While enumerating ports and services we can able to find the port 21 ware open. while trying to connect with default password of anonymous user FTP ware get logged.
+Recon lets start with initial default scan (-sC)</description>
         
         <dc:creator>Atom</dc:creator>
         <media:content url="https://fromzerotoonee.github.io//images/hackthebox/fawn/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>

@@ -22,16 +22,63 @@
       
       <item>
         <title>Hack the Box - Dancing</title>
+        <link>https://fromzerotoonee.github.io/en/en/posts/dancing/</link>
+        <pubDate>Wed, 12 Oct 2022 00:38:05 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        <atom:modified>Wed, 12 Oct 2022 00:38:05 +0530</atom:modified>
+        <guid>https://fromzerotoonee.github.io/en/en/posts/dancing/</guid>
+        <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Dancing Machine.
+Info Table Room Name Dancing Category Hack The Box OS Linux Difficulty Very Easy Maker Hack The Box Kill Chain Summery While enumerating ports and services we can able to find the port 445 ware open. while trying to connect with empty password. we got some shared access.
+Recon let’s start with initial default scan (-sC) , During scanning, we will typically see port 445 TCP open on the target, reserved for the SMB protocol.</description>
+        
+        <dc:creator>Atom</dc:creator>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/dancing/2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>smbshare</category>
+            
+          
+        
+        
+          
+            
+              <category>Very Easy</category>
+            
+          
+            
+              <category>HackTheBox</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Starting Point Tire 0</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hack the Box - Dancing</title>
         <link>https://fromzerotoonee.github.io/en/posts/dancing/</link>
         <pubDate>Wed, 12 Oct 2022 00:38:05 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
         <atom:modified>Wed, 12 Oct 2022 00:38:05 +0530</atom:modified>
         <guid>https://fromzerotoonee.github.io/en/posts/dancing/</guid>
         <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Dancing Machine.
-Info Table   Room Name Dancing    Category Hack The Box   OS Linux    Difficulty Very Easy   Maker Hack The Box     Kill Chain Summery While enumerating ports and services we can able to find the port 445 ware open. while trying to connect with empty password.</description>
+Info Table Room Name Dancing Category Hack The Box OS Linux Difficulty Very Easy Maker Hack The Box Kill Chain Summery While enumerating ports and services we can able to find the port 445 ware open. while trying to connect with empty password. we got some shared access.
+Recon let’s start with initial default scan (-sC) , During scanning, we will typically see port 445 TCP open on the target, reserved for the SMB protocol.</description>
         
         <dc:creator>Atom</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/dancing/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/dancing/2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
