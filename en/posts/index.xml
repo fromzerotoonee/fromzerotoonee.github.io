@@ -14,11 +14,71 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 02 Dec 2023 00:03:25 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 02 Dec 2023 09:45:35 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Sequel</title>
+        <link>https://fromzerotoonee.github.io/en/posts/sequel/</link>
+        <pubDate>Sat, 02 Dec 2023 09:45:35 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        <atom:modified>Sat, 02 Dec 2023 09:45:35 +0530</atom:modified>
+        <guid>https://fromzerotoonee.github.io/en/posts/sequel/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Repettest</title>
+        <link>https://fromzerotoonee.github.io/en/posts/repettest/</link>
+        <pubDate>Sat, 02 Dec 2023 09:09:12 +0530</pubDate>
+        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
+        <atom:modified>Sat, 02 Dec 2023 09:09:12 +0530</atom:modified>
+        <guid>https://fromzerotoonee.github.io/en/posts/repettest/</guid>
+        <description></description>
+        
+        <dc:creator>FromZeroToOne</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Hack The Box - Archetype</title>
