@@ -14,7 +14,7 @@
     <managingEditor>admin@fromzerotoone.in (FromZeroToOne)</managingEditor>
     <webMaster>admin@fromzerotoone.in (FromZeroToOne)</webMaster>
     <copyright>©{2022}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 02 Dec 2023 09:45:35 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 21:00:13 +0530</lastBuildDate>
     
         <atom:link href="https://fromzerotoonee.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,42 +42,12 @@
 
       
       <item>
-        <title>Sequel</title>
-        <link>https://fromzerotoonee.github.io/en/posts/sequel/</link>
-        <pubDate>Sat, 02 Dec 2023 09:45:35 +0530</pubDate>
+        <title>Test Long</title>
+        <link>https://fromzerotoonee.github.io/en/posts/test-long/</link>
+        <pubDate>Mon, 08 Apr 2024 21:00:13 +0530</pubDate>
         <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        <atom:modified>Sat, 02 Dec 2023 09:45:35 +0530</atom:modified>
-        <guid>https://fromzerotoonee.github.io/en/posts/sequel/</guid>
-        <description></description>
-        
-        <dc:creator>FromZeroToOne</dc:creator>
-        
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Repettest</title>
-        <link>https://fromzerotoonee.github.io/en/posts/repettest/</link>
-        <pubDate>Sat, 02 Dec 2023 09:09:12 +0530</pubDate>
-        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        <atom:modified>Sat, 02 Dec 2023 09:09:12 +0530</atom:modified>
-        <guid>https://fromzerotoonee.github.io/en/posts/repettest/</guid>
+        <atom:modified>Mon, 08 Apr 2024 21:00:13 +0530</atom:modified>
+        <guid>https://fromzerotoonee.github.io/en/posts/test-long/</guid>
         <description></description>
         
         <dc:creator>FromZeroToOne</dc:creator>
@@ -154,52 +124,6 @@ Mind Map Recon we run a quick initial nmap scan to see which ports are open and 
           
             
               <category>Pratical Ethical Hacking TCM</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Hack The Box - Appointment</title>
-        <link>https://fromzerotoonee.github.io/en/posts/appointment/</link>
-        <pubDate>Mon, 17 Oct 2022 23:55:02 +0530</pubDate>
-        <author>admin@fromzerotoone.in (FromZeroToOne)</author>
-        <atom:modified>Mon, 17 Oct 2022 23:55:02 +0530</atom:modified>
-        <guid>https://fromzerotoonee.github.io/en/posts/appointment/</guid>
-        <description>Hi Hackers Welcome Back, Today we are going to look at Hack The Box Appointment Machine
-Recon lets start with Basic Recon
-1 2 3 4 5 6 7 8 9 10 11 12 atom@atom-VirtualBox:~$ nmap -sC -sV 10.129.152.162 Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-17 16:15 IST Nmap scan report for 10.129.152.162 Host is up (0.19s latency). Not shown: 999 closed ports PORT STATE SERVICE VERSION 80/tcp open http Apache httpd 2.</description>
-        
-        <dc:creator>Atom</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/Appointment/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>SQL</category>
-            
-          
-        
-        
-          
-            
-              <category>Very Easy</category>
-            
-          
-            
-              <category>HackTheBox</category>
-            
-          
-            
-              <category>Linux</category>
-            
-          
-        
-        
-          
-            
-              <category>Starting Point Tire 1</category>
             
           
         
