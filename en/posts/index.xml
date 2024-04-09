@@ -227,7 +227,7 @@ Info Table Room Name Dancing Category Hack The Box OS Linux Difficulty Very Easy
 Recon let’s start with initial default scan (-sC) , During scanning, we will typically see port 445 TCP open on the target, reserved for the SMB protocol.</description>
         
         <dc:creator>Atom</dc:creator>
-        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/dancing/2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://fromzerotoonee.github.io//images/hackthebox/dancing/dancing1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
